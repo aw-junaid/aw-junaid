@@ -1,8 +1,9 @@
 <img align = "right" src="https://editor.analyticsvidhya.com/uploads/46151Deep_Learning_Software_DE_1380x735px_1150x_.png" alt="Italian Trulli">
 <h1 align="center">Hi 👋, I'm Abdul Wahab Junaid</h1>
+
 <h3 align="center">Cyber-Security Specialist | Quantum Cryptography Researcher | Based in Pakistan, working worldwide.</h3>
 
-<img class="rounded-image" src="https://editor.analyticsvidhya.com/uploads/46151Deep_Learning_Software_DE_1380x735px_1150x_.png" alt="Description of the image" width="250" align="right">
+<img class="rounded-image" src="https://github.com/aw-junaid/aw-junaid/blob/main/1668274976669.jpeg" alt="awjunaid" width="250" align="right">
 
 # About Me
 
