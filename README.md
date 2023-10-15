@@ -58,9 +58,7 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 
 - ⚡ Facts **Lazy, Insane Curiosity, Peace, Negative, Silence, Overthinking**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -85,12 +83,29 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
  
 # Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aw-junaid&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="aw-junaid" height="250" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aw-junaid&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="aw-junaid" height="250" /></p>  <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aw-junaid&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="aw-junaid"  height="200" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aw-junaid&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="aw-junaid"  height="200" /></p>  <br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aw-junaid&theme=default" alt="aw-junaid"  height="250" /></p>
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aw-junaid&theme=default" alt="aw-junaid"  height="250" /></p>  <br>
+ <br>
+  <br>
+   <br>
+    <br>
+     <br>
+      <br>
+       <br>
+        <br>
+         <br>
+          <br>
+           <br>
+            <br>
+             <br>
+              <br>
+               <br>
+                <br>
+                 
+   
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
