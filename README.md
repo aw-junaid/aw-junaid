@@ -1,9 +1,24 @@
 <h1 align="center">Hi 👋, I'm Abdul Wahab Junaid</h1>
 <h3 align="center">Cyber-Security Specialist | Quantum Cryptography Researcher | Based in Pakistan, working worldwide.</h3>
 
-# Project Title
+# About Me
 
-A brief description of what this project does and who it's for
+I am Social Engineer and Cyber Researcher. 
+
+My Hobby is to find flaws in a system. So, if I am in your system don't be worry I just helping people to build more safer network.
+
+Skills:
+
+> Networking
+> Penetration Testing
+> PCI-DSS
+> Intrusion detection/prevention systems
+> Play with Firewalls
+> Operating System Security
+> Web Technologies
+> Security Audits
+
+In Parallel, I am working on quantum computing and exploring the new space of cyber-world and how to implement quantum cryptography protocols into the system.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aw-junaid&label=Profile%20views&color=000000&style=flat" alt="aw-junaid" /> </p>
 
