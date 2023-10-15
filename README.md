@@ -9,14 +9,9 @@ My Hobby is to find flaws in a system. So, if I am in your system don't be worry
 
 Skills:
 
-1 Networking
-2 Penetration Testing
-3 PCI-DSS
-4 Intrusion detection/prevention systems
-5 Play with Firewalls
-6 Operating System Security
-7 Web Technologies
-8 Security Audits
+Networking
+New
+sds
 
 In Parallel, I am working on quantum computing and exploring the new space of cyber-world and how to implement quantum cryptography protocols into the system.
 
