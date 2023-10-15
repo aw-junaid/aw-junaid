@@ -76,6 +76,16 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [What is a neural network?](https://awjunaid.com/artificial-intelligence/what-is-a-neural-network/)
+- [What is the importance of a power supply circuit in an embedded system](https://awjunaid.com/embedded-system/what-is-the-importance-of-a-power-supply-circuit-in-an-embedded-system/)
+- [How does an embedded system handle communication protocols like CAN, LIN, etc.](https://awjunaid.com/embedded-system/how-does-an-embedded-system-handle-communication-protocols-like-can-lin-etc/)
+- [How does an embedded system handle low-level hardware interfaces](https://awjunaid.com/embedded-system/how-does-an-embedded-system-handle-low-level-hardware-interfaces/)
+- [What is the purpose of a reset circuit in an embedded system](https://awjunaid.com/embedded-system/what-is-the-purpose-of-a-reset-circuit-in-an-embedded-system/)
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/awjunaid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" height="100" width="310" alt="awjunaid" /></a></p><br><br>
 
@@ -89,32 +99,5 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aw-junaid&theme=default" alt="aw-junaid"  height="250" /></p>  <br>
  <br>
-  <br>
-   <br>
-    <br>
-     <br>
-      <br>
-       <br>
-        <br>
-         <br>
-          <br>
-           <br>
-            <br>
-             <br>
-              <br>
-               <br>
-                <br>
-                <br>
-                <br>
-                 
-   
-# Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [What is a neural network?](https://awjunaid.com/artificial-intelligence/what-is-a-neural-network/)
-- [What is the importance of a power supply circuit in an embedded system](https://awjunaid.com/embedded-system/what-is-the-importance-of-a-power-supply-circuit-in-an-embedded-system/)
-- [How does an embedded system handle communication protocols like CAN, LIN, etc.](https://awjunaid.com/embedded-system/how-does-an-embedded-system-handle-communication-protocols-like-can-lin-etc/)
-- [How does an embedded system handle low-level hardware interfaces](https://awjunaid.com/embedded-system/how-does-an-embedded-system-handle-low-level-hardware-interfaces/)
-- [What is the purpose of a reset circuit in an embedded system](https://awjunaid.com/embedded-system/what-is-the-purpose-of-a-reset-circuit-in-an-embedded-system/)
-<!-- BLOG-POST-LIST:END -->
 
