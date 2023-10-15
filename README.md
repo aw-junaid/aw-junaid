@@ -91,5 +91,8 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aw-junaid&theme=default" alt="aw-junaid"  height="250" /></p>
 
+# Blog posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
