@@ -29,6 +29,8 @@ My Hobby is to find flaws in a system. So, if I am in your system don't be worry
 In Parallel, I am working on quantum computing and exploring the new space of cyber-world and how to implement quantum cryptography protocols into the system.
 
 #
+<blockquote> In a democracy, power is given, not taken. But it is still power. Love, compassion, caring have no use for it. But it is fuel for greed, hostility,  jealousy... All power corrupts. Take care which powers you allow democracy to wield.
+</blockquote>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aw-junaid&label=Profile%20views&color=000000&style=flat" alt="aw-junaid" /> </p>
 
@@ -86,8 +88,5 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aw-junaid&theme=default" alt="aw-junaid" /></p>
 
-<p>Fa</p>
 
-<blockquote cite="http://www.worldwildlife.org/who/index.html">
-For 60 years, WWF has worked to help people and nature thrive. As the world's leading conservation organization, WWF works in nearly 100 countries. At every level, we collaborate with people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live.
-</blockquote>
+
