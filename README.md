@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Wahab Junaid</h1>
 <h3 align="center">Cyber-Security Specialist | Quantum Cryptography Researcher | Based in Pakistan, working worldwide.</h3>
 
-#About Me
+# About Me
 
 I am Social Engineer and Cyber Researcher. 
 
@@ -11,12 +11,16 @@ My Hobby is to find flaws in a system. So, if I am in your system don't be worry
 <h2>Skills</h2>
 
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Networking</li>
+  <li>Penetration Testing</li>
+  <li>PCI-DSS</li>
+  <li>Intrusion detection/prevention systems</li>
+  <li>Play with Firewalls</li>
+  <li>Operating System Security</li>
+  <li> Web Technologies</li>
+  <li>Security Audits</li>
+   
 </ul>  
-
-
 
 In Parallel, I am working on quantum computing and exploring the new space of cyber-world and how to implement quantum cryptography protocols into the system.
 
