@@ -111,5 +111,10 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a neural network?](https://awjunaid.com/artificial-intelligence/what-is-a-neural-network/)
+- [What is the importance of a power supply circuit in an embedded system](https://awjunaid.com/embedded-system/what-is-the-importance-of-a-power-supply-circuit-in-an-embedded-system/)
+- [How does an embedded system handle communication protocols like CAN, LIN, etc.](https://awjunaid.com/embedded-system/how-does-an-embedded-system-handle-communication-protocols-like-can-lin-etc/)
+- [How does an embedded system handle low-level hardware interfaces](https://awjunaid.com/embedded-system/how-does-an-embedded-system-handle-low-level-hardware-interfaces/)
+- [What is the purpose of a reset circuit in an embedded system](https://awjunaid.com/embedded-system/what-is-the-purpose-of-a-reset-circuit-in-an-embedded-system/)
 <!-- BLOG-POST-LIST:END -->
 
