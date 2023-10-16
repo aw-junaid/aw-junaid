@@ -1,4 +1,4 @@
-<img align = "" src="https://github.com/aw-junaid/aw-junaid/blob/main/peakpx.jpg" width="1000" height="150" alt="Italian Trulli">
+<img align = "" src="https://github.com/aw-junaid/aw-junaid/blob/main/peakpx.jpg" width="1000" height="150" alt="awjunaid">
 <h1 align="center">Hi 👋, I'm Abdul Wahab Junaid</h1>
 
 <h3 align="center">Cyber-Security Specialist | Quantum Cryptography Researcher | Based in Pakistan, working worldwide.</h3>
