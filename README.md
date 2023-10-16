@@ -79,11 +79,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a neural network?](https://awjunaid.com/artificial-intelligence/what-is-a-neural-network/)
-- [What is the importance of a power supply circuit in an embedded system](https://awjunaid.com/embedded-system/what-is-the-importance-of-a-power-supply-circuit-in-an-embedded-system/)
-- [How does an embedded system handle communication protocols like CAN, LIN, etc.](https://awjunaid.com/embedded-system/how-does-an-embedded-system-handle-communication-protocols-like-can-lin-etc/)
-- [How does an embedded system handle low-level hardware interfaces](https://awjunaid.com/embedded-system/how-does-an-embedded-system-handle-low-level-hardware-interfaces/)
-- [What is the purpose of a reset circuit in an embedded system](https://awjunaid.com/embedded-system/what-is-the-purpose-of-a-reset-circuit-in-an-embedded-system/)
+- [What is the concept of a state-value function in reinforcement learning](https://awjunaid.com/artificial-intelligence/what-is-the-concept-of-a-state-value-function-in-reinforcement-learning/)
+- [How is Q-learning used in reinforcement learning](https://awjunaid.com/uncategorized/how-is-q-learning-used-in-reinforcement-learning/)
+- [What is the concept of exploration vs. exploitation in reinforcement learning](https://awjunaid.com/artificial-intelligence/what-is-the-concept-of-exploration-vs-exploitation-in-reinforcement-learning/)
+- [How do you handle imbalanced datasets in deep learning](https://awjunaid.com/artificial-intelligence/how-do-you-handle-imbalanced-datasets-in-deep-learning/)
+- [What is the difference between a pre-trained model and a fine-tuned model in NLP](https://awjunaid.com/artificial-intelligence/what-is-the-difference-between-a-pre-trained-model-and-a-fine-tuned-model-in-nlp/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
