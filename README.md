@@ -79,11 +79,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Pareto Chart in Excel](https://awjunaid.com/microsoft-excel/how-to-create-a-pareto-chart-in-excel/)
-- [How to Create a Gantt Chart in Excel](https://awjunaid.com/microsoft-excel/how-to-create-a-gantt-chart-in-excel/)
-- [How to Create a Waterfall Chart in Excel](https://awjunaid.com/microsoft-excel/how-to-create-a-waterfall-chart-in-excel/)
-- [How to Create a Box and Whisker Plot in Excel](https://awjunaid.com/microsoft-excel/how-to-create-a-box-and-whisker-plot-in-excel/)
-- [How to Create a Histogram in Excel](https://awjunaid.com/microsoft-excel/how-to-create-a-histogram-in-excel/)
+- [What is the concept of a state-value function in reinforcement learning](https://awjunaid.com/artificial-intelligence/what-is-the-concept-of-a-state-value-function-in-reinforcement-learning/)
+- [How is Q-learning used in reinforcement learning](https://awjunaid.com/uncategorized/how-is-q-learning-used-in-reinforcement-learning/)
+- [What is the concept of exploration vs. exploitation in reinforcement learning](https://awjunaid.com/artificial-intelligence/what-is-the-concept-of-exploration-vs-exploitation-in-reinforcement-learning/)
+- [How do you handle imbalanced datasets in deep learning](https://awjunaid.com/artificial-intelligence/how-do-you-handle-imbalanced-datasets-in-deep-learning/)
+- [What is the difference between a pre-trained model and a fine-tuned model in NLP](https://awjunaid.com/artificial-intelligence/what-is-the-difference-between-a-pre-trained-model-and-a-fine-tuned-model-in-nlp/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
