@@ -79,11 +79,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to avoid Malware-Based Phishing Attacks](https://awjunaid.com/cyber-security/how-to-avoid-malware-based-phishing-attacks/)
+- [Which phishing attack is deadliness and how we can avoid them](https://awjunaid.com/cyber-security/which-phishing-attack-is-deadliness-and-how-we-can-avoid-them/)
+- [How many types of phishing attacks are](https://awjunaid.com/cyber-security/how-many-types-of-phishing-attacks-are/)
 - [How to Create a Pareto Chart in Excel](https://awjunaid.com/microsoft-excel/how-to-create-a-pareto-chart-in-excel/)
 - [How to Create a Gantt Chart in Excel](https://awjunaid.com/microsoft-excel/how-to-create-a-gantt-chart-in-excel/)
-- [How to Create a Waterfall Chart in Excel](https://awjunaid.com/microsoft-excel/how-to-create-a-waterfall-chart-in-excel/)
-- [How to Create a Box and Whisker Plot in Excel](https://awjunaid.com/microsoft-excel/how-to-create-a-box-and-whisker-plot-in-excel/)
-- [How to Create a Histogram in Excel](https://awjunaid.com/microsoft-excel/how-to-create-a-histogram-in-excel/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
