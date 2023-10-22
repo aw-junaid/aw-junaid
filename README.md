@@ -214,11 +214,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to avoid Malware-Based Phishing Attacks](https://awjunaid.com/cyber-security/how-to-avoid-malware-based-phishing-attacks/)
-- [Which phishing attack is deadliness and how we can avoid them](https://awjunaid.com/cyber-security/which-phishing-attack-is-deadliness-and-how-we-can-avoid-them/)
-- [How many types of phishing attacks are](https://awjunaid.com/cyber-security/how-many-types-of-phishing-attacks-are/)
-- [How to Create a Pareto Chart in Excel](https://awjunaid.com/microsoft-excel/how-to-create-a-pareto-chart-in-excel/)
-- [How to Create a Gantt Chart in Excel](https://awjunaid.com/microsoft-excel/how-to-create-a-gantt-chart-in-excel/)
+- [How to Set Up Custom Controllers in Kubernetes](https://awjunaid.com/kubernetes/how-to-set-up-custom-controllers-in-kubernetes/)
+- [How to Use Role-Based Access Control &lpar;RBAC&rpar; in Kubernetes](https://awjunaid.com/kubernetes/how-to-use-role-based-access-control-rbac-in-kubernetes/)
+- [How to Set Up Pod Disruption Budgets with Loki in Kubernetes](https://awjunaid.com/kubernetes/how-to-set-up-pod-disruption-budgets-with-loki-in-kubernetes/)
+- [How to Implement Pod Priority and Preemption with Helm in Kubernetes](https://awjunaid.com/kubernetes/how-to-implement-pod-priority-and-preemption-with-helm-in-kubernetes/)
+- [How to Set Up Kubernetes Monitoring with Splunk](https://awjunaid.com/kubernetes/how-to-set-up-kubernetes-monitoring-with-splunk/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
