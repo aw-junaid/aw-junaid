@@ -251,9 +251,6 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aw-junaid/aw-junaid/output/snake.svg" alt="Snake animation" />
 
 ###
 
