@@ -232,14 +232,29 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ###
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/awjunaid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" height="100" width="310" alt="awjunaid" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/awjunaid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" height="70" width="250" alt="awjunaid" /></a></p><br><br>
 
  <br>
+
+###
  
 # Stats
 
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aw-junaid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=aw-junaid&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aw-junaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/aw-junaid/aw-junaid/output/snake.svg" alt="Snake animation" />
+
+###
 
 
