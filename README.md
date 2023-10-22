@@ -79,11 +79,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Kubernetes Secret](https://awjunaid.com/kubernetes/how-to-create-a-kubernetes-secret/)
-- [How to Set Up Custom Metrics in Kubernetes](https://awjunaid.com/kubernetes/how-to-set-up-custom-metrics-in-kubernetes/)
-- [How to Perform a Blue-Green Deployment in Kubernetes](https://awjunaid.com/kubernetes/how-to-perform-a-blue-green-deployment-in-kubernetes/)
-- [How to Debug Pods in Kubernetes](https://awjunaid.com/kubernetes/how-to-debug-pods-in-kubernetes/)
-- [How to Set Up Kubernetes Ingress Controller](https://awjunaid.com/kubernetes/how-to-set-up-kubernetes-ingress-controller/)
+- [How to avoid Malware-Based Phishing Attacks](https://awjunaid.com/cyber-security/how-to-avoid-malware-based-phishing-attacks/)
+- [Which phishing attack is deadliness and how we can avoid them](https://awjunaid.com/cyber-security/which-phishing-attack-is-deadliness-and-how-we-can-avoid-them/)
+- [How many types of phishing attacks are](https://awjunaid.com/cyber-security/how-many-types-of-phishing-attacks-are/)
+- [How to Create a Pareto Chart in Excel](https://awjunaid.com/microsoft-excel/how-to-create-a-pareto-chart-in-excel/)
+- [How to Create a Gantt Chart in Excel](https://awjunaid.com/microsoft-excel/how-to-create-a-gantt-chart-in-excel/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
