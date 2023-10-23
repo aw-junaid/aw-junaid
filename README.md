@@ -221,11 +221,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Drop Indexes in PostgreSQL](https://awjunaid.com/postgresql/how-to-drop-indexes-in-postgresql/)
-- [How to Create Indexes in PostgreSQL](https://awjunaid.com/postgresql/how-to-create-indexes-in-postgresql/)
-- [How to Use Aggregate Functions in PostgreSQL](https://awjunaid.com/postgresql/how-to-use-aggregate-functions-in-postgresql/)
-- [How to Use Subqueries in PostgreSQL](https://awjunaid.com/postgresql/how-to-use-subqueries-in-postgresql/)
-- [How to Use UNION in PostgreSQL](https://awjunaid.com/postgresql/how-to-use-union-in-postgresql/)
+- [How to Set Up Custom Controllers in Kubernetes](https://awjunaid.com/kubernetes/how-to-set-up-custom-controllers-in-kubernetes/)
+- [How to Use Role-Based Access Control &lpar;RBAC&rpar; in Kubernetes](https://awjunaid.com/kubernetes/how-to-use-role-based-access-control-rbac-in-kubernetes/)
+- [How to Set Up Pod Disruption Budgets with Loki in Kubernetes](https://awjunaid.com/kubernetes/how-to-set-up-pod-disruption-budgets-with-loki-in-kubernetes/)
+- [How to Implement Pod Priority and Preemption with Helm in Kubernetes](https://awjunaid.com/kubernetes/how-to-implement-pod-priority-and-preemption-with-helm-in-kubernetes/)
+- [How to Set Up Kubernetes Monitoring with Splunk](https://awjunaid.com/kubernetes/how-to-set-up-kubernetes-monitoring-with-splunk/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
