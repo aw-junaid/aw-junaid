@@ -1,5 +1,14 @@
 <img align = "" src="https://github.com/aw-junaid/aw-junaid/blob/main/peakpx.jpg" width="1000" height="150" alt="awjunaid">
-<p align="center">
+
+![Discord](https://img.shields.io/discord/1163365511309049948)
+![GitHub followers](https://img.shields.io/github/followers/aw-junaid)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UClhKVCHjOxBTNM50lOBTgoA)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClhKVCHjOxBTNM50lOBTgoA)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/abw_Junaid)
+![Twitch Status](https://img.shields.io/twitch/status/awjunaid)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/aw-junaid)
+
+<p align="left">
   <a href="https://github.com/sponsors/awjunaid">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>
   </a>
