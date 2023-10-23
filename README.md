@@ -1,5 +1,12 @@
 <img align = "" src="https://github.com/aw-junaid/aw-junaid/blob/main/peakpx.jpg" width="1000" height="150" alt="awjunaid">
+<p align="center">
+  <a href="https://github.com/sponsors/awjunaid">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Abdul Wahab Junaid</h1>
+
 
 <h3 align="center">Cyber-Security Specialist | Quantum Cryptography Researcher | Based in Pakistan, working worldwide.</h3>
 
