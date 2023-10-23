@@ -230,11 +230,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Custom Controllers in Kubernetes](https://awjunaid.com/kubernetes/how-to-set-up-custom-controllers-in-kubernetes/)
-- [How to Use Role-Based Access Control &lpar;RBAC&rpar; in Kubernetes](https://awjunaid.com/kubernetes/how-to-use-role-based-access-control-rbac-in-kubernetes/)
-- [How to Set Up Pod Disruption Budgets with Loki in Kubernetes](https://awjunaid.com/kubernetes/how-to-set-up-pod-disruption-budgets-with-loki-in-kubernetes/)
-- [How to Implement Pod Priority and Preemption with Helm in Kubernetes](https://awjunaid.com/kubernetes/how-to-implement-pod-priority-and-preemption-with-helm-in-kubernetes/)
-- [How to Set Up Kubernetes Monitoring with Splunk](https://awjunaid.com/kubernetes/how-to-set-up-kubernetes-monitoring-with-splunk/)
+- [How to Create User-Defined Functions in PostgreSQL](https://awjunaid.com/postgresql/how-to-create-user-defined-functions-in-postgresql/)
+- [How to Use Custom Data Types in PostgreSQL](https://awjunaid.com/postgresql/how-to-use-custom-data-types-in-postgresql/)
+- [How to Use Composite Data Types in PostgreSQL](https://awjunaid.com/postgresql/how-to-use-composite-data-types-in-postgresql/)
+- [How to Use Bit String Data Types in PostgreSQL](https://awjunaid.com/postgresql/how-to-use-bit-string-data-types-in-postgresql/)
+- [How to Use Network Address Data Types in PostgreSQL](https://awjunaid.com/postgresql/how-to-use-network-address-data-types-in-postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
