@@ -230,11 +230,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Stored Procedures in PostgreSQL](https://awjunaid.com/postgresql/how-to-create-stored-procedures-in-postgresql/)
-- [How to Create a Sunburst Chart in Excel](https://awjunaid.com/microsoft-excel/how-to-create-a-sunburst-chart-in-excel/)
 - [How to Create User-Defined Functions in PostgreSQL](https://awjunaid.com/postgresql/how-to-create-user-defined-functions-in-postgresql/)
 - [How to Use Custom Data Types in PostgreSQL](https://awjunaid.com/postgresql/how-to-use-custom-data-types-in-postgresql/)
 - [How to Use Composite Data Types in PostgreSQL](https://awjunaid.com/postgresql/how-to-use-composite-data-types-in-postgresql/)
+- [How to Use Bit String Data Types in PostgreSQL](https://awjunaid.com/postgresql/how-to-use-bit-string-data-types-in-postgresql/)
+- [How to Use Network Address Data Types in PostgreSQL](https://awjunaid.com/postgresql/how-to-use-network-address-data-types-in-postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
