@@ -230,11 +230,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use the NOTIFY Command in PostgreSQL](https://awjunaid.com/postgresql/how-to-use-the-notify-command-in-postgresql/)
-- [How to Use the LISTEN Command in PostgreSQL](https://awjunaid.com/postgresql/how-to-use-the-listen-command-in-postgresql/)
-- [How to Use the RELEASE SAVEPOINT Command in PostgreSQL](https://awjunaid.com/postgresql/how-to-use-the-release-savepoint-command-in-postgresql/)
-- [How to Use the SAVEPOINT Command in PostgreSQL](https://awjunaid.com/postgresql/how-to-use-the-savepoint-command-in-postgresql/)
-- [How to Use the ROLLBACK Command in PostgreSQL](https://awjunaid.com/postgresql/how-to-use-the-rollback-command-in-postgresql/)
+- [What is the significance of the overflow flag in Assembly language](https://awjunaid.com/assembly/what-is-the-significance-of-the-overflow-flag-in-assembly-language/)
+- [Describe the purpose of the trap instruction in Assembly language](https://awjunaid.com/assembly/describe-the-purpose-of-the-trap-instruction-in-assembly-language/)
+- [How are multi-threaded programs implemented in Assembly language](https://awjunaid.com/assembly/how-are-multi-threaded-programs-implemented-in-assembly-language/)
+- [What is the role of the interrupt vector table in Assembly language](https://awjunaid.com/assembly/what-is-the-role-of-the-interrupt-vector-table-in-assembly-language/)
+- [Explain the concept of register indirect addressing in Assembly language](https://awjunaid.com/assembly/explain-the-concept-of-register-indirect-addressing-in-assembly-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
