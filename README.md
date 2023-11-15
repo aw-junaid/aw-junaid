@@ -230,11 +230,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the significance of the overflow flag in Assembly language](https://awjunaid.com/assembly/what-is-the-significance-of-the-overflow-flag-in-assembly-language/)
-- [Describe the purpose of the trap instruction in Assembly language](https://awjunaid.com/assembly/describe-the-purpose-of-the-trap-instruction-in-assembly-language/)
-- [How are multi-threaded programs implemented in Assembly language](https://awjunaid.com/assembly/how-are-multi-threaded-programs-implemented-in-assembly-language/)
-- [What is the role of the interrupt vector table in Assembly language](https://awjunaid.com/assembly/what-is-the-role-of-the-interrupt-vector-table-in-assembly-language/)
-- [Explain the concept of register indirect addressing in Assembly language](https://awjunaid.com/assembly/explain-the-concept-of-register-indirect-addressing-in-assembly-language/)
+- [Resolving IPS domains, addresses, managing exception and reverse lookup command](https://awjunaid.com/python/resolving-ips-domains-addresses-managing-exception-and-reverse-lookup-command/)
+- [Implementing a reverse shell with sockets](https://awjunaid.com/python/implementing-a-reverse-shell-with-sockets/)
+- [Implementing an http server in python](https://awjunaid.com/python/implementing-an-http-server-in-python/)
+- [Setting basic client with the socket module](https://awjunaid.com/python/setting-basic-client-with-the-socket-module/)
+- [The socket module, server and client socket methods](https://awjunaid.com/python/the-socket-module-server-and-client-socket-methods/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
