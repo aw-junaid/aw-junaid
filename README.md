@@ -230,11 +230,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Port Scanning with sockets in python](https://awjunaid.com/python/port-scanning-with-sockets-in-python/)
 - [Resolving IPS domains, addresses, managing exception and reverse lookup command](https://awjunaid.com/python/resolving-ips-domains-addresses-managing-exception-and-reverse-lookup-command/)
 - [Implementing a reverse shell with sockets](https://awjunaid.com/python/implementing-a-reverse-shell-with-sockets/)
 - [Implementing an http server in python](https://awjunaid.com/python/implementing-an-http-server-in-python/)
 - [Setting basic client with the socket module](https://awjunaid.com/python/setting-basic-client-with-the-socket-module/)
-- [The socket module, server and client socket methods](https://awjunaid.com/python/the-socket-module-server-and-client-socket-methods/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
