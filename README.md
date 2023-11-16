@@ -230,11 +230,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Port Scanning with sockets in python](https://awjunaid.com/python/port-scanning-with-sockets-in-python/)
-- [Resolving IPS domains, addresses, managing exception and reverse lookup command](https://awjunaid.com/python/resolving-ips-domains-addresses-managing-exception-and-reverse-lookup-command/)
-- [Implementing a reverse shell with sockets](https://awjunaid.com/python/implementing-a-reverse-shell-with-sockets/)
-- [Implementing an http server in python](https://awjunaid.com/python/implementing-an-http-server-in-python/)
-- [Setting basic client with the socket module](https://awjunaid.com/python/setting-basic-client-with-the-socket-module/)
+- [HTTP different authentications with a request module in python](https://awjunaid.com/python/http-different-authentications-with-a-request-module-in-python/)
+- [Building an HTTP client with httpx in python](https://awjunaid.com/python/building-an-http-client-with-httpx-in-python/)
+- [Building an HTTP client with Request and RESTful API in python](https://awjunaid.com/networking/building-an-http-client-with-request-and-restful-api-in-python/)
+- [Building an HTTP client with urllib.request module in python](https://awjunaid.com/python/building-an-http-client-with-urllib-request-module-in-python/)
+- [Building an HTTP client with http.client module in python](https://awjunaid.com/python/building-an-http-client-with-http-client-module-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
