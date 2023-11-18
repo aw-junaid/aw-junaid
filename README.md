@@ -230,11 +230,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Extracting information from the tor network with stem module](https://awjunaid.com/python/extracting-information-from-the-tor-network-with-stem-module/)
+- [Connecting to the Tor network from python](https://awjunaid.com/python/connecting-to-the-tor-network-from-python/)
+- [Discovering hidden services with OSINT tools](https://awjunaid.com/networking/discovering-hidden-services-with-osint-tools/)
+- [How to connect the Tor Network and discover hidden services](https://awjunaid.com/python/how-to-connect-the-tor-network-and-discover-hidden-services/)
 - [HTTP different authentications with a request module in python](https://awjunaid.com/python/http-different-authentications-with-a-request-module-in-python/)
-- [Building an HTTP client with httpx in python](https://awjunaid.com/python/building-an-http-client-with-httpx-in-python/)
-- [Building an HTTP client with Request and RESTful API in python](https://awjunaid.com/networking/building-an-http-client-with-request-and-restful-api-in-python/)
-- [Building an HTTP client with urllib.request module in python](https://awjunaid.com/python/building-an-http-client-with-urllib-request-module-in-python/)
-- [Building an HTTP client with http.client module in python](https://awjunaid.com/python/building-an-http-client-with-http-client-module-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
