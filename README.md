@@ -90,7 +90,7 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
   <a href="https://www.twitch.tv/awjunaid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=plastic" height="27" alt="twitch logo"  />
   </a>
-  <a href="https://discord.gg/fy6MN3EQ" target="_blank">
+  <a href="https://discord.gg/UK22X3ua" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="27" alt="discord logo"  />
   </a>
   <a href="mailto:abdulwahabjunaid07@gmail.com" target="_blank">
