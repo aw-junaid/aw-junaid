@@ -8,12 +8,12 @@
 ![Twitch Status](https://img.shields.io/twitch/status/awjunaid)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/aw-junaid)
 
+
 <p align="left">
   <a href="https://github.com/sponsors/awjunaid">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>
   </a>
 </p>
-
 <h1 align="center">Hi 👋, I'm Abdul Wahab Junaid</h1>
 
 
@@ -53,6 +53,7 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aw-junaid&theme=matrix" alt="aw-junaid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abw_junaid" target="blank"><img src="https://img.shields.io/twitter/follow/abw_junaid?logo=twitter&style=for-the-badge" alt="abw_junaid" /></a> </p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/abdulwahabjunaid.png" alt="TryHackMe">
 
 - 🔭 I’m currently working on [Python for Networking and Security](https://github.com/aw-junaid/Python_For_Networking_and_Security)
 
