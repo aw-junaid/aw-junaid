@@ -231,11 +231,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding and Installing the Nessus vulnerability scanner](https://awjunaid.com/python/understanding-and-installing-the-nessus-vulnerability-scanner/)
-- [Understanding vulnerabilities and exploits](https://awjunaid.com/python/understanding-vulnerabilities-and-exploits/)
-- [Discovering services and vulnerabilities with nmap scripts](https://awjunaid.com/nmap/discovering-services-and-vulnerabilities-with-nmap-scripts/)
-- [Working with Nmap through the os and sub-process module](https://awjunaid.com/python/working-with-nmap-through-the-os-and-sub-process-module/)
-- [Scanning modes with python-nmap](https://awjunaid.com/python/scanning-modes-with-python-nmap/)
+- [Analyzing and discovering vulnerabilities in CMS web application](https://awjunaid.com/python/analyzing-and-discovering-vulnerabilities-in-cms-web-application/)
+- [Testing XSS vulnerabilities in web applications](https://awjunaid.com/python/testing-xss-vulnerabilities-in-web-applications/)
+- [Understanding vulnerabilities in web applications with OWASP](https://awjunaid.com/python/understanding-vulnerabilities-in-web-applications-with-owasp/)
+- [The OpenVAS vulnerability scanner in python](https://awjunaid.com/networking/the-openvas-vulnerability-scanner-in-python/)
+- [Accessing the nessus API with python – Interacting with server and client](https://awjunaid.com/python/accessing-the-nessus-api-with-python-interacting-with-server-and-client/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
