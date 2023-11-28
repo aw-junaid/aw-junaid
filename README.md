@@ -231,11 +231,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing Heart-bleed and SSL/TLS vulnerabilities](https://awjunaid.com/networking/testing-heart-bleed-and-ssl-tls-vulnerabilities/)
 - [Scanning for SQL injection vulnerabilities with the Nmap port scanner](https://awjunaid.com/python/scanning-for-sql-injection-vulnerabilities-with-the-nmap-port-scanner/)
 - [Using SQLmap to test a website for a SQL injection vulnerability](https://awjunaid.com/python/using-sqlmap-to-test-a-website-for-a-sql-injection-vulnerability/)
 - [Discovering SQL vulnerabilities with python tools](https://awjunaid.com/uncategorized/discovering-sql-vulnerabilities-with-python-tools/)
 - [Analyzing and discovering vulnerabilities in CMS web application](https://awjunaid.com/python/analyzing-and-discovering-vulnerabilities-in-cms-web-application/)
-- [Testing XSS vulnerabilities in web applications](https://awjunaid.com/python/testing-xss-vulnerabilities-in-web-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
