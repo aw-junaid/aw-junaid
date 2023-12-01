@@ -231,11 +231,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Heart-bleed and SSL/TLS vulnerabilities](https://awjunaid.com/networking/testing-heart-bleed-and-ssl-tls-vulnerabilities/)
-- [Scanning for SQL injection vulnerabilities with the Nmap port scanner](https://awjunaid.com/python/scanning-for-sql-injection-vulnerabilities-with-the-nmap-port-scanner/)
-- [Using SQLmap to test a website for a SQL injection vulnerability](https://awjunaid.com/python/using-sqlmap-to-test-a-website-for-a-sql-injection-vulnerability/)
-- [Discovering SQL vulnerabilities with python tools](https://awjunaid.com/uncategorized/discovering-sql-vulnerabilities-with-python-tools/)
-- [Analyzing and discovering vulnerabilities in CMS web application](https://awjunaid.com/python/analyzing-and-discovering-vulnerabilities-in-cms-web-application/)
+- [What is the Plug and Play feature in modern operating systems](https://awjunaid.com/operating-system/what-is-the-plug-and-play-feature-in-modern-operating-systems/)
+- [Explain the purpose of interrupt handling in devices](https://awjunaid.com/operating-system/explain-the-purpose-of-interrupt-handling-in-devices/)
+- [Describe the concept of a spooling in the context of device management](https://awjunaid.com/operating-system/describe-the-concept-of-a-spooling-in-the-context-of-device-management/)
+- [How does a device controller differ from a device driver](https://awjunaid.com/operating-system/how-does-a-device-controller-differ-from-a-device-driver/)
+- [What is DMA &lpar;Direct Memory Access&rpar;](https://awjunaid.com/operating-system/what-is-dma-direct-memory-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
