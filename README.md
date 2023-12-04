@@ -231,11 +231,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How does the parent process handle the exit status of a child process in UNIX](https://awjunaid.com/operating-system/how-does-the-parent-process-handle-the-exit-status-of-a-child-process-in-unix/)
-- [Explain the circumstances under which a process becomes a zombie in UNIX](https://awjunaid.com/operating-system/explain-the-circumstances-under-which-a-process-becomes-a-zombie-in-unix/)
-- [Define zombie and orphan processes in the UNIX operating system](https://awjunaid.com/operating-system/define-zombie-and-orphan-processes-in-the-unix-operating-system/)
-- [Describe the role of the Chrome Task Manager in monitoring and managing processes](https://awjunaid.com/operating-system/describe-the-role-of-the-chrome-task-manager-in-monitoring-and-managing-processes/)
-- [How does the multiprocess model in Chrome improve security compared to single-process browsers](https://awjunaid.com/operating-system/how-does-the-multiprocess-model-in-chrome-improve-security-compared-to-single-process-browsers/)
+- [What is the Plug and Play feature in modern operating systems](https://awjunaid.com/operating-system/what-is-the-plug-and-play-feature-in-modern-operating-systems/)
+- [Explain the purpose of interrupt handling in devices](https://awjunaid.com/operating-system/explain-the-purpose-of-interrupt-handling-in-devices/)
+- [Describe the concept of a spooling in the context of device management](https://awjunaid.com/operating-system/describe-the-concept-of-a-spooling-in-the-context-of-device-management/)
+- [How does a device controller differ from a device driver](https://awjunaid.com/operating-system/how-does-a-device-controller-differ-from-a-device-driver/)
+- [What is DMA &lpar;Direct Memory Access&rpar;](https://awjunaid.com/operating-system/what-is-dma-direct-memory-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
