@@ -231,11 +231,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How does the parent process handle the exit status of a child process in UNIX](https://awjunaid.com/operating-system/how-does-the-parent-process-handle-the-exit-status-of-a-child-process-in-unix/)
-- [Explain the circumstances under which a process becomes a zombie in UNIX](https://awjunaid.com/operating-system/explain-the-circumstances-under-which-a-process-becomes-a-zombie-in-unix/)
-- [Define zombie and orphan processes in the UNIX operating system](https://awjunaid.com/operating-system/define-zombie-and-orphan-processes-in-the-unix-operating-system/)
-- [Describe the role of the Chrome Task Manager in monitoring and managing processes](https://awjunaid.com/operating-system/describe-the-role-of-the-chrome-task-manager-in-monitoring-and-managing-processes/)
-- [How does the multiprocess model in Chrome improve security compared to single-process browsers](https://awjunaid.com/operating-system/how-does-the-multiprocess-model-in-chrome-improve-security-compared-to-single-process-browsers/)
+- [Describe the communication between user-mode scheduling and the Windows kernel](https://awjunaid.com/operating-system/describe-the-communication-between-user-mode-scheduling-and-the-windows-kernel/)
+- [Explain the advantages of user-mode scheduling over kernel-mode scheduling](https://awjunaid.com/operating-system/explain-the-advantages-of-user-mode-scheduling-over-kernel-mode-scheduling/)
+- [Discuss the significance of the virtual runtime in the CFS algorithm](https://awjunaid.com/operating-system/discuss-the-significance-of-the-virtual-runtime-in-the-cfs-algorithm/)
+- [Explain how the Linux CFS ensures fairness in CPU allocation](https://awjunaid.com/operating-system/explain-how-the-linux-cfs-ensures-fairness-in-cpu-allocation/)
+- [What is the Completely Fair Scheduler &lpar;CFS&rpar; in the Linux operating system](https://awjunaid.com/operating-system/what-is-the-completely-fair-scheduler-cfs-in-the-linux-operating-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
