@@ -231,11 +231,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Describe the communication between user-mode scheduling and the Windows kernel](https://awjunaid.com/operating-system/describe-the-communication-between-user-mode-scheduling-and-the-windows-kernel/)
-- [Explain the advantages of user-mode scheduling over kernel-mode scheduling](https://awjunaid.com/operating-system/explain-the-advantages-of-user-mode-scheduling-over-kernel-mode-scheduling/)
-- [Discuss the significance of the virtual runtime in the CFS algorithm](https://awjunaid.com/operating-system/discuss-the-significance-of-the-virtual-runtime-in-the-cfs-algorithm/)
-- [Explain how the Linux CFS ensures fairness in CPU allocation](https://awjunaid.com/operating-system/explain-how-the-linux-cfs-ensures-fairness-in-cpu-allocation/)
-- [What is the Completely Fair Scheduler &lpar;CFS&rpar; in the Linux operating system](https://awjunaid.com/operating-system/what-is-the-completely-fair-scheduler-cfs-in-the-linux-operating-system/)
+- [How does the Linux operating system support real-time scheduling](https://awjunaid.com/operating-system/how-does-the-linux-operating-system-support-real-time-scheduling/)
+- [Explain the concept of rate monotonic scheduling in real-time systems](https://awjunaid.com/operating-system/explain-the-concept-of-rate-monotonic-scheduling-in-real-time-systems/)
+- [What is the Earliest Deadline First &lpar;EDF&rpar; scheduling algorithm, and how does it work](https://awjunaid.com/operating-system/what-is-the-earliest-deadline-first-edf-scheduling-algorithm-and-how-does-it-work/)
+- [Discuss the challenges associated with meeting deadlines in real-time systems](https://awjunaid.com/operating-system/discuss-the-challenges-associated-with-meeting-deadlines-in-real-time-systems/)
+- [Describe the characteristics of a real-time task and its deadline](https://awjunaid.com/operating-system/describe-the-characteristics-of-a-real-time-task-and-its-deadline/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
