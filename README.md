@@ -231,11 +231,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How does the Linux operating system support real-time scheduling](https://awjunaid.com/operating-system/how-does-the-linux-operating-system-support-real-time-scheduling/)
-- [Explain the concept of rate monotonic scheduling in real-time systems](https://awjunaid.com/operating-system/explain-the-concept-of-rate-monotonic-scheduling-in-real-time-systems/)
-- [What is the Earliest Deadline First &lpar;EDF&rpar; scheduling algorithm, and how does it work](https://awjunaid.com/operating-system/what-is-the-earliest-deadline-first-edf-scheduling-algorithm-and-how-does-it-work/)
-- [Discuss the challenges associated with meeting deadlines in real-time systems](https://awjunaid.com/operating-system/discuss-the-challenges-associated-with-meeting-deadlines-in-real-time-systems/)
-- [Describe the characteristics of a real-time task and its deadline](https://awjunaid.com/operating-system/describe-the-characteristics-of-a-real-time-task-and-its-deadline/)
+- [How to verify IP parameters for Client OS &lpar;Windows, Mac OS, Linux&rpar;](https://awjunaid.com/networking/how-to-verify-ip-parameters-for-client-os-windows-mac-os-linux/)
+- [Compare IPv6 address types](https://awjunaid.com/networking/compare-ipv6-address-types/)
+- [How to Configure and verify IPv6 addressing and prefix](https://awjunaid.com/networking/how-to-configure-and-verify-ipv6-addressing-and-prefix/)
+- [Describe the need for private IPv4 addressing](https://awjunaid.com/networking/describe-the-need-for-private-ipv4-addressing/)
+- [How to Configure and verify IPv4 addressing and subnetting](https://awjunaid.com/networking/how-to-configure-and-verify-ipv4-addressing-and-subnetting/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
