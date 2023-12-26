@@ -231,11 +231,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python functions with security issues](https://awjunaid.com/networking/python-functions-with-security-issues/)
-- [Explain the role of device drivers](https://awjunaid.com/operating-system/explain-the-role-of-device-drivers-2/)
-- [Describe wireless security protocols &lpar;WPA, WPA2, and WPA3&rpar;](https://awjunaid.com/networking/describe-wireless-security-protocols-wpa-wpa2-and-wpa3/)
-- [Differentiate authentication, authorization, and accounting concepts](https://awjunaid.com/networking/differentiate-authentication-authorization-and-accounting-concepts/)
-- [Describe remote access and site-to-site VPNs](https://awjunaid.com/networking/describe-remote-access-and-site-to-site-vpns/)
+- [How to verify IP parameters for Client OS &lpar;Windows, Mac OS, Linux&rpar;](https://awjunaid.com/networking/how-to-verify-ip-parameters-for-client-os-windows-mac-os-linux/)
+- [Compare IPv6 address types](https://awjunaid.com/networking/compare-ipv6-address-types/)
+- [How to Configure and verify IPv6 addressing and prefix](https://awjunaid.com/networking/how-to-configure-and-verify-ipv6-addressing-and-prefix/)
+- [Describe the need for private IPv4 addressing](https://awjunaid.com/networking/describe-the-need-for-private-ipv4-addressing/)
+- [How to Configure and verify IPv4 addressing and subnetting](https://awjunaid.com/networking/how-to-configure-and-verify-ipv4-addressing-and-subnetting/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
