@@ -231,11 +231,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating keys securely with the secrets and hashlib modules](https://awjunaid.com/python/generating-keys-securely-with-the-secrets-and-hashlib-modules/)
-- [Steganography techniques for hiding information in images](https://awjunaid.com/python/steganography-techniques-for-hiding-information-in-images/)
-- [Encrypting and Decrypting information with cryptography](https://awjunaid.com/python/encrypting-and-decrypting-information-with-cryptography/)
-- [Encrypting and encrypting information with pycryptodome](https://awjunaid.com/networking/encrypting-and-encrypting-information-with-pycryptodome/)
-- [Chrome forensic with python](https://awjunaid.com/python/chrome-forensic-with-python/)
+- [Python functions with security issues](https://awjunaid.com/networking/python-functions-with-security-issues/)
+- [Explain the role of device drivers](https://awjunaid.com/operating-system/explain-the-role-of-device-drivers-2/)
+- [Describe wireless security protocols &lpar;WPA, WPA2, and WPA3&rpar;](https://awjunaid.com/networking/describe-wireless-security-protocols-wpa-wpa2-and-wpa3/)
+- [Differentiate authentication, authorization, and accounting concepts](https://awjunaid.com/networking/differentiate-authentication-authorization-and-accounting-concepts/)
+- [Describe remote access and site-to-site VPNs](https://awjunaid.com/networking/describe-remote-access-and-site-to-site-vpns/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
