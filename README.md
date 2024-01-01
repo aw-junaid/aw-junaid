@@ -231,11 +231,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brute-Forcing HTML From Authentication Using Socket Module](https://awjunaid.com/python/brute-forcing-html-from-authentication-using-socket-module/)
+- [Brute-Forcing Directories and File Location Using Socket Library](https://awjunaid.com/networking/brute-forcing-directories-and-file-location-using-socket-library/)
+- [Mapping Open Source web application installations](https://awjunaid.com/networking/mapping-open-source-web-application-installations/)
+- [ARP Cache poisoning with Scapy fork Kamene](https://awjunaid.com/python/arp-cache-poisoning-with-scapy-fork-kamene/)
 - [Stealing Email Credentials Using Scapy module](https://awjunaid.com/python/stealing-email-credentials-using-scapy-module/)
-- [Packet Sniffing on window and linux](https://awjunaid.com/python/packet-sniffing-on-window-and-linux/)
-- [SSH forward and reverse tunneling](https://awjunaid.com/networking/ssh-forward-and-reverse-tunneling/)
-- [SSH server and client to run remote commands with Paramiko](https://awjunaid.com/networking/ssh-server-and-client-to-run-remote-commands-with-paramiko/)
-- [Building a TCP proxy for accessing network-based software](https://awjunaid.com/networking/building-a-tcp-proxy-for-accessing-network-based-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
