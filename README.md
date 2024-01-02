@@ -14,10 +14,10 @@
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>
   </a>
 </p>
-<h1 align="center">Hi 👋, I'm Abdul Wahab Junaid</h1>
+<h1 align="center">Hey 👋, I'm Abdul Wahab Junaid</h1>
 
 
-<h3 align="center">Cyber-Security Specialist | Quantum Cryptography Researcher | Based in Pakistan, working worldwide.</h3>
+<h3 align="center">Network Architect & Cybersecurity Strategist | Sysadmin | RHEL | CCNA | CompTIA Security+ | Based in Pakistan, working worldwide.</h3>
 
 <img class="rounded-image" src="https://github.com/aw-junaid/aw-junaid/blob/main/1668274976669.jpeg" alt="awjunaid" width="250" align="right">
 
