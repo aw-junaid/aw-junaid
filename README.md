@@ -19,7 +19,7 @@
 
 <h3 align="center">Network Architect & Cybersecurity Strategist | Sysadmin | RHEL | CCNA | CompTIA Security+ | Based in Pakistan, working worldwide.</h3>
 
-<img class="rounded-image" src="https://github.com/aw-junaid/aw-junaid/blob/main/1668274976669.jpeg" alt="awjunaid" width="250" align="right">
+<img class="rounded-image" src="https://github.com/aw-junaid/aw-junaid/blob/main/awjunaid.png" alt="awjunaid" width="250" align="right">
 
 # About Me
 
