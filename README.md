@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/aw-junaid)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UClhKVCHjOxBTNM50lOBTgoA)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClhKVCHjOxBTNM50lOBTgoA)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/abw_Junaid)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/awjunaid_)
 ![Twitch Status](https://img.shields.io/twitch/status/awjunaid)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/aw-junaid)
 
@@ -118,7 +118,7 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
   <a href="https://t.me/aw_junaid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="27" alt="telegram logo"  />
   </a>
-  <a href="https://twitter.com/abw_junaid" target="_blank">
+  <a href="https://twitter.com/awjunaid_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="27" alt="twitter logo"  />
   </a>
   <a href="https://whatsapp.com/channel/0029VaCXDFaDJ6H8eKO6bB1p" target="_blank">
