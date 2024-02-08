@@ -219,8 +219,6 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="33" alt="ruby logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="33" alt="rust logo"  />
-</div>
 
 ###
 
