@@ -6,7 +6,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClhKVCHjOxBTNM50lOBTgoA)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/awjunaid_)
 ![Twitch Status](https://img.shields.io/twitch/status/awjunaid)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/aw-junaid)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/:variant/:aw-junaid)
 
 
 <p align="left">
