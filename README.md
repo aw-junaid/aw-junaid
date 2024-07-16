@@ -53,7 +53,7 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aw-junaid&theme=matrix" alt="aw-junaid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/awjunaid_" target="blank"><img src="https://img.shields.io/twitter/follow/abw_junaid?logo=twitter&style=for-the-badge" alt="awjunaid_" /></a> </p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/abdulwahabjunaid.png" alt="TryHackMe">
+
 
 - 🔭 I’m currently working on [Python for Networking and Security](https://github.com/aw-junaid/Python_For_Networking_and_Security)
 
