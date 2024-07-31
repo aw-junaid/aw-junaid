@@ -85,14 +85,14 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
   <a href="https://www.youtube.com/@awjunaid/featured" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="27" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/4wji_in41d" target="_blank">
+  <a href="https://www.instagram.com/awjunaid_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="27" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/awjunaid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=plastic" height="27" alt="twitch logo"  />
   </a>
   <a href="https://discord.gg/UK22X3ua" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="27" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?meNetwork Architect & Cybersecurity Strategist | Sysadmin | RHEL | CCNA | CompTIA Security+ | Based in Pakistan, working worldwide.ssage=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="27" alt="discord logo"  />
   </a>
   <a href="mailto:abdulwahabjunaid07@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="27" alt="gmail logo"  />
@@ -103,7 +103,7 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
   <a href="https://dev.to/awjunaid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=plastic" height="27" alt="devto logo"  />
   </a>
-  <a href="https://www.facebook.com/abdulwahjunaid" target="_blank">
+  <a href="https://www.facebook.com/awjunaid7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="27" alt="facebook logo"  />
   </a>
   <a href="https://linktr.ee/awjunaid" target="_blank">
