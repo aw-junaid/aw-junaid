@@ -17,7 +17,7 @@
 <h1 align="center">Hey 👋, I'm Abdul Wahab Junaid</h1>
 
 
-<h3 align="center">Network Architect & Cybersecurity Strategist | Sysadmin | RHEL | CCNA | CompTIA Security+ | Based in Pakistan, working worldwide.</h3>
+<h3 align="center">Cyber-Security Specialist | Quantum Cryptography Researcher</h3>
 
 <img class="rounded-image" src="https://github.com/aw-junaid/aw-junaid/blob/main/awjunaid.png" alt="awjunaid" width="250" align="right">
 
