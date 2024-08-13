@@ -233,11 +233,6 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=8&username=aw-junaid&theme=github_dark" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
