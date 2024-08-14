@@ -224,11 +224,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [side-channel problem on an attack-by-attack basis](https://awjunaid.com/cyber-security/side-channel-problem-on-an-attack-by-attack-basis/)
 - [what is cross-query collisions?](https://awjunaid.com/cyber-security/what-is-cross-query-collisions/)
 - [Blind Birthday Attack | Understand the problem](https://awjunaid.com/cyber-security/blind-birthday-attack-understand-the-problem/)
 - [Double HMAC: A Defense Against Timing Attacks](https://awjunaid.com/cyber-security/double-hmac-a-defense-against-timing-attacks/)
 - [Implementing WebAssembly with JavaScript](https://awjunaid.com/javascript/implementing-webassembly-with-javascript/)
-- [Implementing GraphQL APIs with JavaScript](https://awjunaid.com/javascript/implementing-graphql-apis-with-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
