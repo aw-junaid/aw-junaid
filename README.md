@@ -55,7 +55,7 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 <p align="left"> <a href="https://twitter.com/awjunaid_" target="blank"><img src="https://img.shields.io/twitter/follow/awjunaid_?logo=twitter&style=for-the-badge" alt="awjunaid_" /></a> </p>
 
 
-- 🔭 I’m currently working on [Python for Networking and Security](https://github.com/aw-junaid/Python_For_Networking_and_Security)
+- 🔭 I’m currently working on [Hacking Tools](https://github.com/aw-junaid/Hacking-Tools)
 
 - 🌱 I’m currently learning **Make my self expert in Python and C++ for Cyber Security and Ethical Hacking**
 
@@ -71,7 +71,7 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 
 - 📫 How to reach me **abdulwahabjunaid07@gmail.com**
 
-- 📄 Know about my experiences [https://cv.awjunaid.com](https://cv.awjunaid.com)
+- 📄 Know about my experiences [Resume](https://cv.awjunaid.com)
 
 - ⚡ Facts **Lazy, Insane Curiosity, Peace, Negative, Silence, Overthinking**
 
