@@ -2,26 +2,21 @@
 
 ![Discord](https://img.shields.io/discord/1163365511309049948)
 ![GitHub followers](https://img.shields.io/github/followers/aw-junaid)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UClhKVCHjOxBTNM50lOBTgoA)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClhKVCHjOxBTNM50lOBTgoA)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/awjunaid_)
 ![Twitch Status](https://img.shields.io/twitch/status/awjunaid)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/aw-junaid)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fawjunaid.com%2F)
 
 
-<p align="left">
-  <a href="https://github.com/sponsors/awjunaid">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>
-  </a>
-</p>
-<h1 align="center">Hey 👋, I'm Abdul Wahab Junaid</h1>
 
+<h1 align="left">I'm Abdul Wahab Junaid</h1>
 
-<h3 align="center">Cyber-Security Specialist | Quantum Cryptography Researcher</h3>
+<h2 align="left">Cyber-Security Specialist | Quantum Cryptography Researcher</h3>
 
-<img class="rounded-image" src="https://github.com/aw-junaid/aw-junaid/blob/main/awjunaid.png" alt="awjunaid" width="250" align="right">
+<img class="rounded-image" src="https://github.com/aw-junaid/aw-junaid/blob/main/awjunaid.png" alt="awjunaid" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" align="right">
 
-# About Me
+## About Me
 
 I am Social Engineer and Cyber Researcher. 
 
@@ -57,17 +52,15 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 
 - 🔭 I’m currently working on [Hacking Tools](https://github.com/aw-junaid/Hacking-Tools)
 
-- 🌱 I’m currently learning **Make my self expert in Python and C++ for Cyber Security and Ethical Hacking**
+- 🌱 I’m currently Reseaching on **Quantum Cyrptography**
 
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/aw-junaid/)
 
 - 🤝 I’m looking for help with [Cyber Security, Embedded Programming and Penetration Testing](https://awjunaid.com/contact-me/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/users/aw-junaid/projects/](https://github.com/users/aw-junaid/projects/)
-
 - 📝 I regularly write articles on [https://awjunaid.com/](https://awjunaid.com/)
 
-- 💬 Ask me about **Penetration Testing, Networking, Cyber Security, Cloud Security, Azure, AWS, Firebase, Apache**
+- 💬 Ask me about **Penetration Testing, Networking, Cloud Security, Embedded System, Apache Server**
 
 - 📫 How to reach me **abdulwahabjunaid07@gmail.com**
 
@@ -135,89 +128,7 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="python logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="33" alt="cplusplus logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="33" alt="c logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="33" alt="anaconda logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="33" alt="angularjs logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="33" alt="apache logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="33" alt="apachekafka logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="33" alt="arduino logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="33" alt="android logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="33" alt="azure logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="33" alt="bash logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="33" alt="dart logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="33" alt="debian logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="33" alt="digitalocean logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="33" alt="docker logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="33" alt="embeddedc logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="33" alt="flutter logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="33" alt="github logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="33" alt="googlecloud logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="33" alt="graphql logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="33" alt="jenkins logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="33" alt="jetbrains logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="33" alt="kubernetes logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="33" alt="linux logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="33" alt="matlab logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="33" alt="mongodb logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" alt="mysql logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="33" alt="nginx logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="33" alt="numpy logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="33" alt="opencv logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="33" alt="openal logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="33" alt="oracle logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="33" alt="pandas logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="33" alt="postgresql logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="33" alt="redhat logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="33" alt="tensorflow logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="33" alt="ubuntu logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="33" alt="ruby logo"  />
-  <img width="11" />
-
-###
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ###
 
@@ -251,12 +162,10 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aw-junaid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=aw-junaid&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aw-junaid&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=20&theme=tokyonight&hide_border=false" height="300" width="700" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aw-junaid&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=20&theme=tokyonight&hide_border=false" height="300" width="400" alt="languages graph"  />
 </div>
 
 ###
 
 
 ###
-
-
