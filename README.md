@@ -136,11 +136,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Data Languages](https://awjunaid.com/sqlite/sql-data-languages/)
-- [Building and Installing SQLite](https://awjunaid.com/sqlite/building-and-installing-sqlite/)
-- [Uses of SQLite](https://awjunaid.com/sqlite/uses-of-sqlite/)
-- [SQLite Embedded Device Support](https://awjunaid.com/sqlite/sqlite-embedded-device-support/)
-- [SQLite Unique Features](https://awjunaid.com/sqlite/sqlite-unique-features/)
+- [an overview of the most notable traditional ciphers](https://awjunaid.com/cryptography/an-overview-of-the-most-notable-traditional-ciphers/)
+- [how cryptography is applied and advanced in the modern age](https://awjunaid.com/cryptography/how-cryptography-is-applied-and-advanced-in-the-modern-age/)
+- [Benefits of Cryptography](https://awjunaid.com/cryptography/benefits-of-cryptography/)
+- [primary applications of cryptography](https://awjunaid.com/cryptography/primary-applications-of-cryptography/)
+- [primary principles of cryptography](https://awjunaid.com/cryptography/primary-principles-of-cryptography/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
