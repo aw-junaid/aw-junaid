@@ -136,11 +136,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Encryption Standard &lpar;AES&rpar;](https://awjunaid.com/cryptography/advanced-encryption-standard-aes/)
-- [Playfair Cipher in cryptography](https://awjunaid.com/cryptography/playfair-cipher-in-cryptography/)
-- [Hacking Monoalphabetic Cipher](https://awjunaid.com/cryptography/hacking-monoalphabetic-cipher/)
-- [Monoalphabetic Cipher in Cryptography](https://awjunaid.com/cryptography/monoalphabetic-cipher-in-cryptography/)
-- [Vigenère Cipher in Cryptography](https://awjunaid.com/cryptography/vigenere-cipher-in-cryptography/)
+- [Block Cipher Modes of Operation](https://awjunaid.com/cryptography/block-cipher-modes-of-operation/)
+- [Block Cipher in Cryptography](https://awjunaid.com/cryptography/block-cipher-in-cryptography/)
+- [Stream Cipher in Cryptography](https://awjunaid.com/cryptography/stream-cipher-in-cryptography/)
+- [Key Revocation in Cryptography](https://awjunaid.com/cryptography/key-revocation-in-cryptography/)
+- [Key Distribution in Cryptography](https://awjunaid.com/cryptography/key-distribution-in-cryptography/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
