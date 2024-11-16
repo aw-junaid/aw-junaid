@@ -43,6 +43,8 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 <blockquote> In a democracy, power is given, not taken. But it is still power. Love, compassion, caring have no use for it. But it is fuel for greed, hostility,  jealousy... All power corrupts. Take care which powers you allow democracy to wield.
 </blockquote>
 
+>Wisdom is to do the correct thing in the correct manner at the correct time. – Imam Ibn Al Qayyim
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aw-junaid&label=Profile%20views&color=000000&style=flat" alt="aw-junaid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aw-junaid&theme=matrix" alt="aw-junaid" /></a> </p>
