@@ -96,7 +96,7 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
   <a href="https://dev.to/awjunaid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="devto logo"  />
   </a>
-  <a href="https://www.facebook.com/awjunaid7" target="_blank">
+  <a href="https://www.facebook.com/awjuna1d" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="facebook logo"  />
   </a>
   <a href="https://linktr.ee/awjunaid" target="_blank">
