@@ -10,7 +10,6 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fawjunaid.com%2F)
 
 
-
 <h1 align="left">I'm Abdul Wahab Junaid</h1>
 
 <h2 align="left">Cyber-Security Specialist | Quantum Cryptography Researcher</h3>
