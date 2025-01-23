@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TCP/IP Model Cheat Sheet](https://awjunaid.com/cheatsheet/tcp-ip-model-cheat-sheet/)
-- [Nmap IPv6 Cheat Sheet](https://awjunaid.com/nmap/nmap-ipv6-cheat-sheet/)
-- [Firewall Uses and setup in Linux](https://awjunaid.com/cyber-security/firewall-uses-and-setup-in-linux/)
-- [Secure Network from unauthorized access](https://awjunaid.com/cyber-security/secure-networking/)
-- [Advanced Encryption Standard &lpar;AES&rpar;](https://awjunaid.com/cryptography/advanced-encryption-standard-aes/)
+- [File Manipulation Tools in Linux](https://awjunaid.com/cyber-security/file-manipulation-tools-in-linux/)
+- [Top Reconnaissance Tools for Security Professionals](https://awjunaid.com/cyber-security/top-reconnaissance-tools-for-security-professionals/)
+- [Best Practices for Wireless Authentication in Modern Networks](https://awjunaid.com/cyber-security/best-practices-for-wireless-authentication-in-modern-networks/)
+- [Wireless Cryptography: Securing Your Wi-Fi Network](https://awjunaid.com/cyber-security/wireless-cryptography-securing-your-wi-fi-network/)
+- [Essential Network Appliances for Modern IT Infrastructure](https://awjunaid.com/cyber-security/essential-network-appliances-for-modern-it-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
