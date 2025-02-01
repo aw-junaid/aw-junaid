@@ -43,6 +43,9 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 <blockquote> In a democracy, power is given, not taken. But it is still power. Love, compassion, caring have no use for it. But it is fuel for greed, hostility,  jealousy... All power corrupts. Take care which powers you allow democracy to wield.
 </blockquote>
 
+>Study hard what interests you the most in the most undisciplined, irreverent and original manner possible. - Richard Feynman
+
+
 >Wisdom is to do the correct thing in the correct manner at the correct time. – Imam Ibn Al Qayyim
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aw-junaid&label=Profile%20views&color=000000&style=flat" alt="aw-junaid" /> </p>
