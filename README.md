@@ -9,13 +9,12 @@
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/aw-junaid)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fawjunaid.com%2F)
 
-<h1 align="left">I'm Abdul Wahab Junaid</h1>
-
-<h2 align="left">Cyber-Security Specialist | Quantum Cryptography Researcher</h3>
+<h3 align="left">♓ I'm Abdul Wahab Junaid</h3>
+<h2 align="left">Cyber-Security Specialist | Quantum Cryptography Researcher</h2>
 
 <img class="rounded-image" src="https://github.com/aw-junaid/aw-junaid/blob/main/awjunaid.png" alt="awjunaid" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" align="right">
 
-## About Me
+### About Me
 
 I am Social Engineer and Cyber Researcher. 
 
