@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Magnetic Barrier-like Portal](https://awjunaid.com/research/creating-a-magnetic-barrier-like-portal/)
 - [Allama Iqbal Quotes: Visionary Wisdom from the Poet of the East](https://awjunaid.com/quotes/allama-iqbal-quotes-visionary-wisdom-from-the-poet-of-the-east/)
 - [Imam Al-Shafi’i Quotes: Pearls of Wisdom from the Founder of Islamic Jurisprudence](https://awjunaid.com/quotes/imam-al-shafii-quotes-pearls-of-wisdom-from-the-founder-of-islamic-jurisprudence/)
 - [Al-Farabi Quotes: The Second Teacher’s Timeless Wisdom on Philosophy and Virtue](https://awjunaid.com/quotes/al-farabi-quotes-the-second-teachers-timeless-wisdom-on-philosophy-and-virtue/)
 - [Al-Ghazali Quotes: Timeless Wisdom from the Proof of Islam](https://awjunaid.com/quotes/al-ghazali-quotes-timeless-wisdom-from-the-proof-of-islam/)
-- [Ibn Arabi Quotes: Mystical Wisdom from the Greatest Sufi Master](https://awjunaid.com/quotes/ibn-arabi-quotes-mystical-wisdom-from-the-greatest-sufi-master/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
