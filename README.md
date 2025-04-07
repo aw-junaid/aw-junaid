@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Being a Script Kiddie: Master Ethical Hacking in 2025](https://awjunaid.com/cyber-security/stop-being-a-script-kiddie-master-ethical-hacking-in-2025/)
-- [Shell and Script Environments in Linux](https://awjunaid.com/cyber-security/shell-and-script-environments-in-linux/)
-- [File Manipulation Tools in Linux](https://awjunaid.com/cyber-security/file-manipulation-tools-in-linux/)
-- [Top Reconnaissance Tools for Security Professionals](https://awjunaid.com/cyber-security/top-reconnaissance-tools-for-security-professionals/)
-- [Best Practices for Wireless Authentication in Modern Networks](https://awjunaid.com/cyber-security/best-practices-for-wireless-authentication-in-modern-networks/)
+- [Allama Iqbal Quotes: Visionary Wisdom from the Poet of the East](https://awjunaid.com/quotes/allama-iqbal-quotes-visionary-wisdom-from-the-poet-of-the-east/)
+- [Imam Al-Shafi’i Quotes: Pearls of Wisdom from the Founder of Islamic Jurisprudence](https://awjunaid.com/quotes/imam-al-shafii-quotes-pearls-of-wisdom-from-the-founder-of-islamic-jurisprudence/)
+- [Al-Farabi Quotes: The Second Teacher’s Timeless Wisdom on Philosophy and Virtue](https://awjunaid.com/quotes/al-farabi-quotes-the-second-teachers-timeless-wisdom-on-philosophy-and-virtue/)
+- [Al-Ghazali Quotes: Timeless Wisdom from the Proof of Islam](https://awjunaid.com/quotes/al-ghazali-quotes-timeless-wisdom-from-the-proof-of-islam/)
+- [Ibn Arabi Quotes: Mystical Wisdom from the Greatest Sufi Master](https://awjunaid.com/quotes/ibn-arabi-quotes-mystical-wisdom-from-the-greatest-sufi-master/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
