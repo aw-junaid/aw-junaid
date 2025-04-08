@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Holes: Formation, Properties, and Discovery](https://awjunaid.com/research/black-holes-formation-properties-and-discovery/)
+- [The Weak Nuclear Force Constant: A Delicate Balance for Life and the Cosmos](https://awjunaid.com/research/the-weak-nuclear-force-constant-a-delicate-balance-for-life-and-the-cosmos/)
 - [The Gravitational Constant &lpar;G&rpar;: A Finely-Tuned Force Shaping the Cosmos](https://awjunaid.com/research/the-gravitational-constant-g-a-finely-tuned-force-shaping-the-cosmos/)
 - [Creating a Magnetic Barrier-like Portal](https://awjunaid.com/research/creating-a-magnetic-barrier-like-portal/)
 - [Allama Iqbal Quotes: Visionary Wisdom from the Poet of the East](https://awjunaid.com/quotes/allama-iqbal-quotes-visionary-wisdom-from-the-poet-of-the-east/)
-- [Imam Al-Shafi’i Quotes: Pearls of Wisdom from the Founder of Islamic Jurisprudence](https://awjunaid.com/quotes/imam-al-shafii-quotes-pearls-of-wisdom-from-the-founder-of-islamic-jurisprudence/)
-- [Al-Farabi Quotes: The Second Teacher’s Timeless Wisdom on Philosophy and Virtue](https://awjunaid.com/quotes/al-farabi-quotes-the-second-teachers-timeless-wisdom-on-philosophy-and-virtue/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
