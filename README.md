@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Holes: Formation, Properties, and Discovery](https://awjunaid.com/research/black-holes-formation-properties-and-discovery/)
-- [The Weak Nuclear Force Constant: A Delicate Balance for Life and the Cosmos](https://awjunaid.com/research/the-weak-nuclear-force-constant-a-delicate-balance-for-life-and-the-cosmos/)
-- [The Gravitational Constant &lpar;G&rpar;: A Finely-Tuned Force Shaping the Cosmos](https://awjunaid.com/research/the-gravitational-constant-g-a-finely-tuned-force-shaping-the-cosmos/)
-- [Creating a Magnetic Barrier-like Portal](https://awjunaid.com/research/creating-a-magnetic-barrier-like-portal/)
-- [Allama Iqbal Quotes: Visionary Wisdom from the Poet of the East](https://awjunaid.com/quotes/allama-iqbal-quotes-visionary-wisdom-from-the-poet-of-the-east/)
+- [The sun runs in its orbit toward its stopping point](https://awjunaid.com/research/the-sun-runs-in-its-orbit-toward-its-stopping-point/)
+- [The discovery of subatomic particles](https://awjunaid.com/research/the-discovery-of-subatomic-particles/)
+- [The cosmic formation of chemical elements](https://awjunaid.com/research/the-cosmic-formation-of-chemical-elements/)
+- [Water in the Universe: From Cosmic Origins to Earth’s Oceans](https://awjunaid.com/research/water-in-the-universe-from-cosmic-origins-to-earths-oceans/)
+- [Earth’s Water: Born from Cosmic Ingredients](https://awjunaid.com/research/earths-water-born-from-cosmic-ingredients/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
