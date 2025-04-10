@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The sun runs in its orbit toward its stopping point](https://awjunaid.com/research/the-sun-runs-in-its-orbit-toward-its-stopping-point/)
-- [The discovery of subatomic particles](https://awjunaid.com/research/the-discovery-of-subatomic-particles/)
-- [The cosmic formation of chemical elements](https://awjunaid.com/research/the-cosmic-formation-of-chemical-elements/)
-- [Water in the Universe: From Cosmic Origins to Earth’s Oceans](https://awjunaid.com/research/water-in-the-universe-from-cosmic-origins-to-earths-oceans/)
-- [Earth’s Water: Born from Cosmic Ingredients](https://awjunaid.com/research/earths-water-born-from-cosmic-ingredients/)
+- [dnsmap: Subdomain brute-forcing tool](https://awjunaid.com/kali-linux/dnsmap-subdomain-brute-forcing-tool/)
+- [dnsenum: Multithreaded tool for DNS enumeration](https://awjunaid.com/ethical-hacking/dnsenum-multithreaded-tool-for-dns-enumeration/)
+- [The Fine-Tuning of the Universe’s Physical Constants: A Cosmic Mystery](https://awjunaid.com/research/the-fine-tuning-of-the-universes-physical-constants-a-cosmic-mystery/)
+- [Loop Quantum Gravity &lpar;LQG&rpar;: A Discrete Structure of Spacetime](https://awjunaid.com/research/loop-quantum-gravity-lqg-a-discrete-structure-of-spacetime/)
+- [The Birth of the First Elements: A Cosmic Alchemy](https://awjunaid.com/research/the-birth-of-the-first-elements-a-cosmic-alchemy/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
