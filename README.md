@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Growth of Functions, Asymptotic Notation, and Common Functions](https://awjunaid.com/algorithm/growth-of-functions-asymptotic-notation-and-common-functions/)
+- [Insertion Sort, Algorithm Analysis, and Design](https://awjunaid.com/algorithm/insertion-sort-algorithm-analysis-and-design/)
+- [The role of algorithms in computing](https://awjunaid.com/algorithm/the-role-of-algorithms-in-computing/)
 - [dnsmap: Subdomain brute-forcing tool](https://awjunaid.com/kali-linux/dnsmap-subdomain-brute-forcing-tool/)
 - [dnsenum: Multithreaded tool for DNS enumeration](https://awjunaid.com/ethical-hacking/dnsenum-multithreaded-tool-for-dns-enumeration/)
-- [The Fine-Tuning of the Universe’s Physical Constants: A Cosmic Mystery](https://awjunaid.com/research/the-fine-tuning-of-the-universes-physical-constants-a-cosmic-mystery/)
-- [Loop Quantum Gravity &lpar;LQG&rpar;: A Discrete Structure of Spacetime](https://awjunaid.com/research/loop-quantum-gravity-lqg-a-discrete-structure-of-spacetime/)
-- [The Birth of the First Elements: A Cosmic Alchemy](https://awjunaid.com/research/the-birth-of-the-first-elements-a-cosmic-alchemy/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
