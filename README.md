@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Substitution Method for Solving Recurrences &lpar;Divide-and-Conquer&rpar;](https://awjunaid.com/algorithm/the-substitution-method-for-solving-recurrences-divide-and-conquer/)
+- [Strassen’s Algorithm for Matrix Multiplication &lpar;Divide-and-Conquer Approach&rpar;](https://awjunaid.com/algorithm/strassens-algorithm-for-matrix-multiplication-divide-and-conquer-approach/)
+- [Divide-and-Conquer: The Maximum-Subarray Problem](https://awjunaid.com/algorithm/divide-and-conquer-the-maximum-subarray-problem/)
 - [Growth of Functions, Asymptotic Notation, and Common Functions](https://awjunaid.com/algorithm/growth-of-functions-asymptotic-notation-and-common-functions/)
 - [Insertion Sort, Algorithm Analysis, and Design](https://awjunaid.com/algorithm/insertion-sort-algorithm-analysis-and-design/)
-- [The role of algorithms in computing](https://awjunaid.com/algorithm/the-role-of-algorithms-in-computing/)
-- [dnsmap: Subdomain brute-forcing tool](https://awjunaid.com/kali-linux/dnsmap-subdomain-brute-forcing-tool/)
-- [dnsenum: Multithreaded tool for DNS enumeration](https://awjunaid.com/ethical-hacking/dnsenum-multithreaded-tool-for-dns-enumeration/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
