@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LockBit: The Rise and Fall of the World’s Most Powerful Hacking Group](https://awjunaid.com/cyber-security/lockbit-the-rise-and-fall-of-the-worlds-most-powerful-hacking-group/)
+- [The Melissa Worm: A Comprehensive Analysis](https://awjunaid.com/cyber-security/the-melissa-worm-a-comprehensive-analysis/)
+- [Mafiaboy’s Moment: The 2000 Denial-of-Service Attacks That Shook the Internet](https://awjunaid.com/cyber-security/mafiaboys-moment-the-2000-denial-of-service-attacks-that-shook-the-internet/)
 - [The Substitution Method for Solving Recurrences &lpar;Divide-and-Conquer&rpar;](https://awjunaid.com/algorithm/the-substitution-method-for-solving-recurrences-divide-and-conquer/)
 - [Strassen’s Algorithm for Matrix Multiplication &lpar;Divide-and-Conquer Approach&rpar;](https://awjunaid.com/algorithm/strassens-algorithm-for-matrix-multiplication-divide-and-conquer-approach/)
-- [Divide-and-Conquer: The Maximum-Subarray Problem](https://awjunaid.com/algorithm/divide-and-conquer-the-maximum-subarray-problem/)
-- [Growth of Functions, Asymptotic Notation, and Common Functions](https://awjunaid.com/algorithm/growth-of-functions-asymptotic-notation-and-common-functions/)
-- [Insertion Sort, Algorithm Analysis, and Design](https://awjunaid.com/algorithm/insertion-sort-algorithm-analysis-and-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
