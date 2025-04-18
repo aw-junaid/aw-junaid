@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Randomized Algorithms: Theory and Implementation in C](https://awjunaid.com/uncategorized/randomized-algorithms-theory-and-implementation-in-c/)
+- [Indicator Random Variables in Probabilistic Analysis](https://awjunaid.com/algorithm/indicator-random-variables-in-probabilistic-analysis/)
+- [Probabilistic Analysis and Randomized Algorithms: The Hiring Problem](https://awjunaid.com/algorithm/probabilistic-analysis-and-randomized-algorithms-the-hiring-problem/)
 - [Proof of the Master Theorem &lpar;Divide-and-Conquer&rpar;](https://awjunaid.com/algorithm/proof-of-the-master-theorem-divide-and-conquer/)
 - [The Master Method for Solving Recurrences &lpar;Divide-and-Conquer&rpar;](https://awjunaid.com/algorithm/the-master-method-for-solving-recurrences-divide-and-conquer/)
-- [LockBit: The Rise and Fall of the World’s Most Powerful Hacking Group](https://awjunaid.com/cyber-security/lockbit-the-rise-and-fall-of-the-worlds-most-powerful-hacking-group/)
-- [The Melissa Worm: A Comprehensive Analysis](https://awjunaid.com/cyber-security/the-melissa-worm-a-comprehensive-analysis/)
-- [Mafiaboy’s Moment: The 2000 Denial-of-Service Attacks That Shook the Internet](https://awjunaid.com/cyber-security/mafiaboys-moment-the-2000-denial-of-service-attacks-that-shook-the-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
