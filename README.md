@@ -138,7 +138,7 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Randomized Algorithms: Theory and Implementation in C](https://awjunaid.com/uncategorized/randomized-algorithms-theory-and-implementation-in-c/)
+- [Randomized Algorithms: Theory and Implementation in C](https://awjunaid.com/algorithm/randomized-algorithms-theory-and-implementation-in-c/)
 - [Indicator Random Variables in Probabilistic Analysis](https://awjunaid.com/algorithm/indicator-random-variables-in-probabilistic-analysis/)
 - [Probabilistic Analysis and Randomized Algorithms: The Hiring Problem](https://awjunaid.com/algorithm/probabilistic-analysis-and-randomized-algorithms-the-hiring-problem/)
 - [Proof of the Master Theorem &lpar;Divide-and-Conquer&rpar;](https://awjunaid.com/algorithm/proof-of-the-master-theorem-divide-and-conquer/)
