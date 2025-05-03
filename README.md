@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A task-scheduling problem as a matroid](https://awjunaid.com/algorithm/a-task-scheduling-problem-as-a-matroid/)
-- [Matroids and Greedy Methods](https://awjunaid.com/algorithm/matroids-and-greedy-methods/)
-- [Huffman Codes: A Greedy Algorithm for Data Compression](https://awjunaid.com/algorithm/huffman-codes-a-greedy-algorithm-for-data-compression/)
-- [Elements of the Greedy Strategy – Greedy Algorithm](https://awjunaid.com/algorithm/elements-of-the-greedy-strategy-greedy-algorithm/)
-- [Activity Selection Problem – Greedy Algorithm Approach](https://awjunaid.com/algorithm/activity-selection-problem-greedy-algorithm-approach/)
+- [Randomized Algorithms: Theory and Implementation in C](https://awjunaid.com/algorithm/randomized-algorithms-theory-and-implementation-in-c/)
+- [Indicator Random Variables in Probabilistic Analysis](https://awjunaid.com/algorithm/indicator-random-variables-in-probabilistic-analysis/)
+- [Probabilistic Analysis and Randomized Algorithms: The Hiring Problem](https://awjunaid.com/algorithm/probabilistic-analysis-and-randomized-algorithms-the-hiring-problem/)
+- [Proof of the Master Theorem &lpar;Divide-and-Conquer&rpar;](https://awjunaid.com/algorithm/proof-of-the-master-theorem-divide-and-conquer/)
+- [The Master Method for Solving Recurrences &lpar;Divide-and-Conquer&rpar;](https://awjunaid.com/algorithm/the-master-method-for-solving-recurrences-divide-and-conquer/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
