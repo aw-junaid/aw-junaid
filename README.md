@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fibonacci Heaps: A Detailed Explanation with C Implementation](https://awjunaid.com/algorithm/fibonacci-heaps-a-detailed-explanation-with-c-implementation/)
-- [B-Trees: A Comprehensive Guide](https://awjunaid.com/algorithm/b-trees-a-comprehensive-guide/)
-- [A task-scheduling problem as a matroid](https://awjunaid.com/algorithm/a-task-scheduling-problem-as-a-matroid/)
-- [Matroids and Greedy Methods](https://awjunaid.com/algorithm/matroids-and-greedy-methods/)
-- [Huffman Codes: A Greedy Algorithm for Data Compression](https://awjunaid.com/algorithm/huffman-codes-a-greedy-algorithm-for-data-compression/)
+- [Performance Characteristics of an LED Transmitter](https://awjunaid.com/networking/performance-characteristics-of-an-led-transmitter/)
+- [Basic Operation and Types of LED Light Sources Used in Fiber Optic Communications](https://awjunaid.com/networking/basic-operation-and-types-of-led-light-sources-used-in-fiber-optic-communications/)
+- [ISO/IEC 11801 International Cabling Standard](https://awjunaid.com/networking/iso-iec-11801-international-cabling-standard/)
+- [ANSI/TIA-598-C Color Code and Cable Markings for Fiber Optic Cabling](https://awjunaid.com/networking/ansi-tia-598-c-color-code-and-cable-markings-for-fiber-optic-cabling/)
+- [NEC® Listing Requirements for Optical Fiber Cables and Raceways](https://awjunaid.com/networking/nec-listing-requirements-for-optical-fiber-cables-and-raceways/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
