@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fibonacci Heaps: A Detailed Explanation with C Implementation](https://awjunaid.com/algorithm/fibonacci-heaps-a-detailed-explanation-with-c-implementation/)
+- [B-Trees: A Comprehensive Guide](https://awjunaid.com/algorithm/b-trees-a-comprehensive-guide/)
 - [A task-scheduling problem as a matroid](https://awjunaid.com/algorithm/a-task-scheduling-problem-as-a-matroid/)
 - [Matroids and Greedy Methods](https://awjunaid.com/algorithm/matroids-and-greedy-methods/)
 - [Huffman Codes: A Greedy Algorithm for Data Compression](https://awjunaid.com/algorithm/huffman-codes-a-greedy-algorithm-for-data-compression/)
-- [Elements of the Greedy Strategy – Greedy Algorithm](https://awjunaid.com/algorithm/elements-of-the-greedy-strategy-greedy-algorithm/)
-- [Activity Selection Problem – Greedy Algorithm Approach](https://awjunaid.com/algorithm/activity-selection-problem-greedy-algorithm-approach/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
