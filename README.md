@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Characteristics of an LED Transmitter](https://awjunaid.com/networking/performance-characteristics-of-an-led-transmitter/)
-- [Basic Operation and Types of LED Light Sources Used in Fiber Optic Communications](https://awjunaid.com/networking/basic-operation-and-types-of-led-light-sources-used-in-fiber-optic-communications/)
-- [ISO/IEC 11801 International Cabling Standard](https://awjunaid.com/networking/iso-iec-11801-international-cabling-standard/)
-- [ANSI/TIA-598-C Color Code and Cable Markings for Fiber Optic Cabling](https://awjunaid.com/networking/ansi-tia-598-c-color-code-and-cable-markings-for-fiber-optic-cabling/)
-- [NEC® Listing Requirements for Optical Fiber Cables and Raceways](https://awjunaid.com/networking/nec-listing-requirements-for-optical-fiber-cables-and-raceways/)
+- [Understanding Asynchronous Transfer Mode &lpar;ATM&rpar;: A High-Speed Communication Protocol](https://awjunaid.com/networking/understanding-asynchronous-transfer-mode-atm-a-high-speed-communication-protocol/)
+- [How a Token Ring Network Operates: A Detailed Overview](https://awjunaid.com/networking/how-a-token-ring-network-operates-a-detailed-overview/)
+- [Describing a Network Using Ethernet Technologies](https://awjunaid.com/networking/describing-a-network-using-ethernet-technologies/)
+- [The Three Core Categories of Networking Architectures: Bus, Ring, and Hierarchical Star](https://awjunaid.com/networking/the-three-core-categories-of-networking-architectures-bus-ring-and-hierarchical-star/)
+- [What is Crosstalk in Communication Cabling? Causes, Types, and Prevention](https://awjunaid.com/networking/what-is-crosstalk-in-communication-cabling-causes-types-and-prevention/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
