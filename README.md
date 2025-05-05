@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Asynchronous Transfer Mode &lpar;ATM&rpar;: A High-Speed Communication Protocol](https://awjunaid.com/networking/understanding-asynchronous-transfer-mode-atm-a-high-speed-communication-protocol/)
-- [How a Token Ring Network Operates: A Detailed Overview](https://awjunaid.com/networking/how-a-token-ring-network-operates-a-detailed-overview/)
-- [Describing a Network Using Ethernet Technologies](https://awjunaid.com/networking/describing-a-network-using-ethernet-technologies/)
-- [The Three Core Categories of Networking Architectures: Bus, Ring, and Hierarchical Star](https://awjunaid.com/networking/the-three-core-categories-of-networking-architectures-bus-ring-and-hierarchical-star/)
-- [What is Crosstalk in Communication Cabling? Causes, Types, and Prevention](https://awjunaid.com/networking/what-is-crosstalk-in-communication-cabling-causes-types-and-prevention/)
+- [Material Dispersion and Its Impact on Optical Fiber Bandwidth](https://awjunaid.com/networking/material-dispersion-and-its-impact-on-optical-fiber-bandwidth/)
+- [Modal Dispersion and Its Impact on Optical Fiber Bandwidth](https://awjunaid.com/networking/modal-dispersion-and-its-impact-on-optical-fiber-bandwidth/)
+- [Using the Index of Refraction to Express the Speed of Light in a Medium](https://awjunaid.com/networking/using-the-index-of-refraction-to-express-the-speed-of-light-in-a-medium/)
+- [Understanding Fresnel Reflection: Light Behavior at Material Boundaries](https://awjunaid.com/networking/understanding-fresnel-reflection-light-behavior-at-material-boundaries/)
+- [The Refraction of Light: Understanding Snell’s Law](https://awjunaid.com/networking/the-refraction-of-light-understanding-snells-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
