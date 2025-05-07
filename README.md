@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Material Dispersion and Its Impact on Optical Fiber Bandwidth](https://awjunaid.com/networking/material-dispersion-and-its-impact-on-optical-fiber-bandwidth/)
-- [Modal Dispersion and Its Impact on Optical Fiber Bandwidth](https://awjunaid.com/networking/modal-dispersion-and-its-impact-on-optical-fiber-bandwidth/)
-- [Using the Index of Refraction to Express the Speed of Light in a Medium](https://awjunaid.com/networking/using-the-index-of-refraction-to-express-the-speed-of-light-in-a-medium/)
-- [Understanding Fresnel Reflection: Light Behavior at Material Boundaries](https://awjunaid.com/networking/understanding-fresnel-reflection-light-behavior-at-material-boundaries/)
-- [The Refraction of Light: Understanding Snell’s Law](https://awjunaid.com/networking/the-refraction-of-light-understanding-snells-law/)
+- [Quantum vs Classical Computing: A Layered Comparison from Physics to Abstraction](https://awjunaid.com/quantum-computing/quantum-vs-classical-computing-a-layered-comparison-from-physics-to-abstraction/)
+- [What Every Coder Should Know About CPUs](https://awjunaid.com/computer-architecture/what-every-coder-should-know-about-cpus/)
+- [Modern CPU Pipeline Detailed Breakdown](https://awjunaid.com/computer-architecture/modern-cpu-pipeline-detailed-breakdown/)
+- [Understanding Attenuation in Optical Fibers and Its Impact on Light Transmission](https://awjunaid.com/networking/understanding-attenuation-in-optical-fibers-and-its-impact-on-light-transmission/)
+- [Understanding Crosstalk in Optical Fibers and Its Impact on Image Quality](https://awjunaid.com/networking/understanding-crosstalk-in-optical-fibers-and-its-impact-on-image-quality/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
