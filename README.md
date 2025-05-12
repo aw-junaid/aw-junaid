@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum vs Classical Computing: A Layered Comparison from Physics to Abstraction](https://awjunaid.com/quantum-computing/quantum-vs-classical-computing-a-layered-comparison-from-physics-to-abstraction/)
-- [What Every Coder Should Know About CPUs](https://awjunaid.com/computer-architecture/what-every-coder-should-know-about-cpus/)
-- [Modern CPU Pipeline Detailed Breakdown](https://awjunaid.com/computer-architecture/modern-cpu-pipeline-detailed-breakdown/)
-- [Understanding Attenuation in Optical Fibers and Its Impact on Light Transmission](https://awjunaid.com/networking/understanding-attenuation-in-optical-fibers-and-its-impact-on-light-transmission/)
-- [Understanding Crosstalk in Optical Fibers and Its Impact on Image Quality](https://awjunaid.com/networking/understanding-crosstalk-in-optical-fibers-and-its-impact-on-image-quality/)
+- [Swing Attack: Understanding and Mitigating This DoS Vulnerability](https://awjunaid.com/ethical-hacking/swing-attack-understanding-and-mitigating-this-dos-vulnerability/)
+- [WinNuke Attack: Legacy Threat and Modern Prevention Techniques](https://awjunaid.com/ethical-hacking/winnuke-attack-legacy-threat-and-modern-prevention-techniques/)
+- [Smurf Attack Prevention: Protecting Your Network from Amplified ICMP](https://awjunaid.com/ethical-hacking/smurf-attack-prevention-protecting-your-network-from-amplified-icmp/)
+- [Land Attack: Understanding and Preventing IP Address Overlap](https://awjunaid.com/ethical-hacking/land-attack-understanding-and-preventing-ip-address-overlap/)
+- [ICMP Redirection Attack: Guide to Preventing Man-in-the-Middle Attacks](https://awjunaid.com/ethical-hacking/icmp-redirection-attack-guide-to-preventing-man-in-the-middle-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
