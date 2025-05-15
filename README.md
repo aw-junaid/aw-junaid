@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Swing Attack: Understanding and Mitigating This DoS Vulnerability](https://awjunaid.com/ethical-hacking/swing-attack-understanding-and-mitigating-this-dos-vulnerability/)
-- [WinNuke Attack: Legacy Threat and Modern Prevention Techniques](https://awjunaid.com/ethical-hacking/winnuke-attack-legacy-threat-and-modern-prevention-techniques/)
-- [Smurf Attack Prevention: Protecting Your Network from Amplified ICMP](https://awjunaid.com/ethical-hacking/smurf-attack-prevention-protecting-your-network-from-amplified-icmp/)
-- [Land Attack: Understanding and Preventing IP Address Overlap](https://awjunaid.com/ethical-hacking/land-attack-understanding-and-preventing-ip-address-overlap/)
-- [ICMP Redirection Attack: Guide to Preventing Man-in-the-Middle Attacks](https://awjunaid.com/ethical-hacking/icmp-redirection-attack-guide-to-preventing-man-in-the-middle-attacks/)
+- [whatweb: Identifies technologies used by websites](https://awjunaid.com/kali-linux/whatweb-identifies-technologies-used-by-websites/)
+- [wapiti: Scans web applications for vulnerabilities](https://awjunaid.com/kali-linux/wapiti-scans-web-applications-for-vulnerabilities/)
+- [skipfish: Automated web application security scanner](https://awjunaid.com/kali-linux/skipfish-automated-web-application-security-scanner/)
+- [davtest: Tests WebDAV servers for vulnerabilities](https://awjunaid.com/kali-linux/davtest-tests-webdav-servers-for-vulnerabilities/)
+- [cadaver: WebDAV command-line client](https://awjunaid.com/kali-linux/cadaver-webdav-command-line-client/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
