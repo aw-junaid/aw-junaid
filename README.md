@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Structures for Disjoint Sets &lpar;Union-Find&rpar;](https://awjunaid.com/algorithm/data-structures-for-disjoint-sets-union-find/)
-- [Van Emde Boas Trees: A Detailed Explanation](https://awjunaid.com/algorithm/van-emde-boas-trees-a-detailed-explanation/)
-- [pipal: A tool for analyzing password statistics from password dumps to assess password security](https://awjunaid.com/kali-linux/pipal-a-tool-for-analyzing-password-statistics-from-password-dumps-to-assess-password-security/)
-- [cutycapt: A tool for capturing screenshots of web pages and converting them to images](https://awjunaid.com/kali-linux/cutycapt-a-tool-for-capturing-screenshots-of-web-pages-and-converting-them-to-images/)
-- [cherrytree: A hierarchical note-taking application for organizing notes and information](https://awjunaid.com/kali-linux/cherrytree-a-hierarchical-note-taking-application-for-organizing-notes-and-information/)
+- [Strongly Connected Components &lpar;SCC&rpar; in Graph Theory](https://awjunaid.com/algorithm/strongly-connected-components-scc-in-graph-theory/)
+- [Topological Sort: Detailed Explanation and Implementation in C](https://awjunaid.com/algorithm/topological-sort-detailed-explanation-and-implementation-in-c/)
+- [Depth-First Search &lpar;DFS&rpar; – Comprehensive Explanation and Implementation in C](https://awjunaid.com/algorithm/depth-first-search-dfs-comprehensive-explanation-and-implementation-in-c/)
+- [Breadth-First Search &lpar;BFS&rpar; – Comprehensive Explanation](https://awjunaid.com/algorithm/breadth-first-search-bfs-comprehensive-explanation/)
+- [Elementary Graph Algorithms: Representations of Graphs](https://awjunaid.com/algorithm/elementary-graph-algorithms-representations-of-graphs/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
