@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Structures for Disjoint Sets &lpar;Union-Find&rpar;](https://awjunaid.com/algorithm/data-structures-for-disjoint-sets-union-find/)
+- [Van Emde Boas Trees: A Detailed Explanation](https://awjunaid.com/algorithm/van-emde-boas-trees-a-detailed-explanation/)
 - [pipal: A tool for analyzing password statistics from password dumps to assess password security](https://awjunaid.com/kali-linux/pipal-a-tool-for-analyzing-password-statistics-from-password-dumps-to-assess-password-security/)
 - [cutycapt: A tool for capturing screenshots of web pages and converting them to images](https://awjunaid.com/kali-linux/cutycapt-a-tool-for-capturing-screenshots-of-web-pages-and-converting-them-to-images/)
 - [cherrytree: A hierarchical note-taking application for organizing notes and information](https://awjunaid.com/kali-linux/cherrytree-a-hierarchical-note-taking-application-for-organizing-notes-and-information/)
-- [hashdeep: A tool for computing and verifying hash values of files in a directory](https://awjunaid.com/kali-linux/hashdeep-a-tool-for-computing-and-verifying-hash-values-of-files-in-a-directory/)
-- [bulk_extractor: A tool for extracting useful data from large data sets, such as disk images](https://awjunaid.com/kali-linux/bulk_extractor-a-tool-for-extracting-useful-data-from-large-data-sets-such-as-disk-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
