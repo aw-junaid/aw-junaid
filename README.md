@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Johnson’s Algorithm for Sparse Graphs](https://awjunaid.com/algorithm/johnsons-algorithm-for-sparse-graphs/)
-- [Floyd-Warshall Algorithm: Comprehensive Explanation and Implementation](https://awjunaid.com/algorithm/floyd-warshall-algorithm-comprehensive-explanation-and-implementation/)
-- [Introduction to Shortest Paths via Matrix Multiplication](https://awjunaid.com/algorithm/introduction-to-shortest-paths-via-matrix-multiplication/)
-- [Proofs of Shortest-Paths Properties: Comprehensive Explanation](https://awjunaid.com/algorithm/proofs-of-shortest-paths-properties-comprehensive-explanation/)
-- [Difference Constraints and Shortest Paths](https://awjunaid.com/algorithm/difference-constraints-and-shortest-paths/)
+- [Strongly Connected Components &lpar;SCC&rpar; in Graph Theory](https://awjunaid.com/algorithm/strongly-connected-components-scc-in-graph-theory/)
+- [Topological Sort: Detailed Explanation and Implementation in C](https://awjunaid.com/algorithm/topological-sort-detailed-explanation-and-implementation-in-c/)
+- [Depth-First Search &lpar;DFS&rpar; – Comprehensive Explanation and Implementation in C](https://awjunaid.com/algorithm/depth-first-search-dfs-comprehensive-explanation-and-implementation-in-c/)
+- [Breadth-First Search &lpar;BFS&rpar; – Comprehensive Explanation](https://awjunaid.com/algorithm/breadth-first-search-bfs-comprehensive-explanation/)
+- [Elementary Graph Algorithms: Representations of Graphs](https://awjunaid.com/algorithm/elementary-graph-algorithms-representations-of-graphs/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
