@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Energy Connection Through Cosmic Chakras and God](https://awjunaid.com/research/energy-connection-through-cosmic-chakras-and-god/)
 - [Johnson’s Algorithm for Sparse Graphs](https://awjunaid.com/algorithm/johnsons-algorithm-for-sparse-graphs/)
 - [Floyd-Warshall Algorithm: Comprehensive Explanation and Implementation](https://awjunaid.com/algorithm/floyd-warshall-algorithm-comprehensive-explanation-and-implementation/)
 - [Introduction to Shortest Paths via Matrix Multiplication](https://awjunaid.com/algorithm/introduction-to-shortest-paths-via-matrix-multiplication/)
 - [Proofs of Shortest-Paths Properties: Comprehensive Explanation](https://awjunaid.com/algorithm/proofs-of-shortest-paths-properties-comprehensive-explanation/)
-- [Difference Constraints and Shortest Paths](https://awjunaid.com/algorithm/difference-constraints-and-shortest-paths/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
