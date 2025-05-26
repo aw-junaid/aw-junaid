@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Energy Enhancement Level 2: The Energy Blockage Removal Process](https://awjunaid.com/research/energy-enhancement-level-2-the-energy-blockage-removal-process/)
+- [Energy Enhancement Level 1 &lpar;Apprentice&rpar;](https://awjunaid.com/research/energy-enhancement-level-1-apprentice/)
+- [Core Pillars of the Energy Enhancement Course](https://awjunaid.com/research/core-pillars-of-the-energy-enhancement-course/)
 - [Energy Connection Through Cosmic Chakras and God](https://awjunaid.com/research/energy-connection-through-cosmic-chakras-and-god/)
 - [Johnson’s Algorithm for Sparse Graphs](https://awjunaid.com/algorithm/johnsons-algorithm-for-sparse-graphs/)
-- [Floyd-Warshall Algorithm: Comprehensive Explanation and Implementation](https://awjunaid.com/algorithm/floyd-warshall-algorithm-comprehensive-explanation-and-implementation/)
-- [Introduction to Shortest Paths via Matrix Multiplication](https://awjunaid.com/algorithm/introduction-to-shortest-paths-via-matrix-multiplication/)
-- [Proofs of Shortest-Paths Properties: Comprehensive Explanation](https://awjunaid.com/algorithm/proofs-of-shortest-paths-properties-comprehensive-explanation/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
