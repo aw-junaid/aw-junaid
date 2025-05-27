@@ -1,5 +1,5 @@
 <img align = "" src="https://github.com/aw-junaid/aw-junaid/blob/main/peakpx.jpg" width="1000" height="150" alt="awjunaid">
-                                                  
+                                                   
 ![Discord](https://img.shields.io/discord/1163365511309049948)
 ![GitHub followers](https://img.shields.io/github/followers/aw-junaid)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClhKVCHjOxBTNM50lOBTgoA)
