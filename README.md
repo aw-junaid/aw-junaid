@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CPE WAN Management Protocol](https://awjunaid.com/networking/cpe-wan-management-protocol/)
 - [Matrices: A Comprehensive Guide](https://awjunaid.com/algorithm/matrices-a-comprehensive-guide/)
 - [Counting and Probability: A Comprehensive Guide](https://awjunaid.com/algorithm/counting-and-probability-a-comprehensive-guide/)
 - [Comprehensive Guide to Sets, Relations, Functions, Graphs, and Trees](https://awjunaid.com/algorithm/comprehensive-guide-to-sets-relations-functions-graphs-and-trees/)
 - [Summations: Formulas, Properties, and Bounding Techniques](https://awjunaid.com/algorithm/summations-formulas-properties-and-bounding-techniques/)
-- [Approximation Algorithms: Key Problems and Implementations](https://awjunaid.com/algorithm/approximation-algorithms-key-problems-and-implementations/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
