@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside the Mind of a Zero-Day Hunter: Fuzzing and Finding the Invisible](https://awjunaid.com/cyber-security/inside-the-mind-of-a-zero-day-hunter-fuzzing-and-finding-the-invisible/)
 - [CPE WAN Management Protocol](https://awjunaid.com/networking/cpe-wan-management-protocol/)
 - [Matrices: A Comprehensive Guide](https://awjunaid.com/algorithm/matrices-a-comprehensive-guide/)
 - [Counting and Probability: A Comprehensive Guide](https://awjunaid.com/algorithm/counting-and-probability-a-comprehensive-guide/)
 - [Comprehensive Guide to Sets, Relations, Functions, Graphs, and Trees](https://awjunaid.com/algorithm/comprehensive-guide-to-sets-relations-functions-graphs-and-trees/)
-- [Summations: Formulas, Properties, and Bounding Techniques](https://awjunaid.com/algorithm/summations-formulas-properties-and-bounding-techniques/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
