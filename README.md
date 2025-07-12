@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tainted Trails: Unmasking Vulnerabilities with Source and Sink Analysis](https://awjunaid.com/cyber-security/tainted-trails-unmasking-vulnerabilities-with-source-and-sink-analysis/)
 - [How to Select the Right Target for Vulnerability Research: A Practical Guide](https://awjunaid.com/cyber-security/how-to-select-the-right-target-for-vulnerability-research-a-practical-guide/)
 - [The Three Pillars of Vulnerability Research: Code Review, Reverse Engineering, and Fuzzing](https://awjunaid.com/cyber-security/the-three-pillars-of-vulnerability-research-code-review-reverse-engineering-and-fuzzing/)
 - [Vulnerability Research vs. Penetration Testing: Different Goals, Shared Techniques](https://awjunaid.com/cyber-security/vulnerability-research-vs-penetration-testing-different-goals-shared-techniques/)
 - [What Is a Vulnerability? A Deep Dive into Security Flaws, CVEs, and Misclassifications](https://awjunaid.com/cyber-security/what-is-a-vulnerability-a-deep-dive-into-security-flaws-cves-and-misclassifications/)
-- [Inside the Mind of a Zero-Day Hunter: Fuzzing and Finding the Invisible](https://awjunaid.com/cyber-security/inside-the-mind-of-a-zero-day-hunter-fuzzing-and-finding-the-invisible/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
