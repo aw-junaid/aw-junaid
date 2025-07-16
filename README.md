@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Network Protocol Security: Decoding Data Structures and Procedures](https://awjunaid.com/cyber-security/network-protocol-security-decoding-data-structures-and-procedures/)
+- [How to Map, Analyze, and Exploit Non-HTTP Attack Surfaces from Source Code](https://awjunaid.com/cyber-security/how-to-map-analyze-and-exploit-non-http-attack-surfaces-from-source-code/)
+- [The Expanding Attack Surface of Modern Software: Risks and Exploitation Vectors](https://awjunaid.com/cyber-security/the-expanding-attack-surface-of-modern-software-risks-and-exploitation-vectors/)
+- [Navigating the Maze: Mastering Sink-to-Source Vulnerability Analysis](https://awjunaid.com/cyber-security/navigating-the-maze-mastering-sink-to-source-vulnerability-analysis/)
 - [Tainted Trails: Unmasking Vulnerabilities with Source and Sink Analysis](https://awjunaid.com/cyber-security/tainted-trails-unmasking-vulnerabilities-with-source-and-sink-analysis/)
-- [How to Select the Right Target for Vulnerability Research: A Practical Guide](https://awjunaid.com/cyber-security/how-to-select-the-right-target-for-vulnerability-research-a-practical-guide/)
-- [The Three Pillars of Vulnerability Research: Code Review, Reverse Engineering, and Fuzzing](https://awjunaid.com/cyber-security/the-three-pillars-of-vulnerability-research-code-review-reverse-engineering-and-fuzzing/)
-- [Vulnerability Research vs. Penetration Testing: Different Goals, Shared Techniques](https://awjunaid.com/cyber-security/vulnerability-research-vs-penetration-testing-different-goals-shared-techniques/)
-- [What Is a Vulnerability? A Deep Dive into Security Flaws, CVEs, and Misclassifications](https://awjunaid.com/cyber-security/what-is-a-vulnerability-a-deep-dive-into-security-flaws-cves-and-misclassifications/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
