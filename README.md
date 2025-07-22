@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Local Attack Surface: Inside the Host’s Boundaries](https://awjunaid.com/cyber-security/the-local-attack-surface-inside-the-hosts-boundaries/)
 - [Network Protocol Security: Decoding Data Structures and Procedures](https://awjunaid.com/cyber-security/network-protocol-security-decoding-data-structures-and-procedures/)
 - [How to Map, Analyze, and Exploit Non-HTTP Attack Surfaces from Source Code](https://awjunaid.com/cyber-security/how-to-map-analyze-and-exploit-non-http-attack-surfaces-from-source-code/)
 - [The Expanding Attack Surface of Modern Software: Risks and Exploitation Vectors](https://awjunaid.com/cyber-security/the-expanding-attack-surface-of-modern-software-risks-and-exploitation-vectors/)
 - [Navigating the Maze: Mastering Sink-to-Source Vulnerability Analysis](https://awjunaid.com/cyber-security/navigating-the-maze-mastering-sink-to-source-vulnerability-analysis/)
-- [Tainted Trails: Unmasking Vulnerabilities with Source and Sink Analysis](https://awjunaid.com/cyber-security/tainted-trails-unmasking-vulnerabilities-with-source-and-sink-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
