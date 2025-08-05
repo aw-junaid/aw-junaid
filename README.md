@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hacker’s Mindset: 5 Principles for Aspiring Hackers](https://awjunaid.com/books/the-hackers-mindset-5-principles-for-aspiring-hackers/)
 - [Multi-Repository Variant Analysis: A Comprehensive Guide](https://awjunaid.com/books/multi-repository-variant-analysis-a-comprehensive-guide/)
 - [Semgrep: Pattern-Oriented Powerhouse for Code Analysis](https://awjunaid.com/books/semgrep-pattern-oriented-powerhouse-for-code-analysis/)
 - [Static Code Analysis Tools: Beyond the Regex with CodeQL](https://awjunaid.com/books/static-code-analysis-tools-beyond-the-regex-with-codeql/)
 - [Sockets: Inter-Process Communication Endpoints, Local and Remote](https://awjunaid.com/cyber-security/sockets-inter-process-communication-endpoints-local-and-remote/)
-- [The Local Attack Surface: Inside the Host’s Boundaries](https://awjunaid.com/cyber-security/the-local-attack-surface-inside-the-hosts-boundaries/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
