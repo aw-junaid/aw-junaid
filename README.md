@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Common Password Cracking and Hacking Techniques](https://awjunaid.com/books/understanding-common-password-cracking-and-hacking-techniques/)
+- [Common Wireless Network Security Vulnerabilities](https://awjunaid.com/books/common-wireless-network-security-vulnerabilities/)
+- [How to Hack a Computer System](https://awjunaid.com/books/how-to-hack-a-computer-system/)
 - [How to Think Like a Hacker](https://awjunaid.com/books/how-to-think-like-a-hacker/)
 - [The Hacker’s Mindset: 5 Principles for Aspiring Hackers](https://awjunaid.com/books/the-hackers-mindset-5-principles-for-aspiring-hackers/)
-- [Multi-Repository Variant Analysis: A Comprehensive Guide](https://awjunaid.com/books/multi-repository-variant-analysis-a-comprehensive-guide/)
-- [Semgrep: Pattern-Oriented Powerhouse for Code Analysis](https://awjunaid.com/books/semgrep-pattern-oriented-powerhouse-for-code-analysis/)
-- [Static Code Analysis Tools: Beyond the Regex with CodeQL](https://awjunaid.com/books/static-code-analysis-tools-beyond-the-regex-with-codeql/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
