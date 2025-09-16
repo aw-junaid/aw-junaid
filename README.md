@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hacker’s Playbook: Understanding Common Hacking Techniques](https://awjunaid.com/books/the-hackers-playbook-understanding-common-hacking-techniques/)
 - [The Ultimate Guide to Protecting Yourself from Hackers](https://awjunaid.com/books/the-ultimate-guide-to-protecting-yourself-from-hackers/)
 - [Understanding Common Password Cracking and Hacking Techniques](https://awjunaid.com/books/understanding-common-password-cracking-and-hacking-techniques/)
 - [Common Wireless Network Security Vulnerabilities](https://awjunaid.com/books/common-wireless-network-security-vulnerabilities/)
 - [How to Hack a Computer System](https://awjunaid.com/books/how-to-hack-a-computer-system/)
-- [How to Think Like a Hacker](https://awjunaid.com/books/how-to-think-like-a-hacker/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
