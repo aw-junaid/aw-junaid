@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hacker’s Playbook: Understanding Common Hacking Techniques](https://awjunaid.com/books/the-hackers-playbook-understanding-common-hacking-techniques/)
-- [The Ultimate Guide to Protecting Yourself from Hackers](https://awjunaid.com/books/the-ultimate-guide-to-protecting-yourself-from-hackers/)
-- [Understanding Common Password Cracking and Hacking Techniques](https://awjunaid.com/books/understanding-common-password-cracking-and-hacking-techniques/)
-- [Common Wireless Network Security Vulnerabilities](https://awjunaid.com/books/common-wireless-network-security-vulnerabilities/)
-- [How to Hack a Computer System](https://awjunaid.com/books/how-to-hack-a-computer-system/)
+- [Beyond the Bug Bounty: Understanding Qualifying vs. Non-Qualifying Vulnerabilities](https://awjunaid.com/books/beyond-the-bug-bounty-understanding-qualifying-vs-non-qualifying-vulnerabilities/)
+- [How to Write a High-Quality Bug Bounty Report](https://awjunaid.com/books/how-to-write-a-high-quality-bug-bounty-report/)
+- [The Path to Becoming a Bug Bounty Hunter](https://awjunaid.com/books/the-path-to-becoming-a-bug-bounty-hunter/)
+- [A Comprehensive Guide to Bug Bounty Hunting](https://awjunaid.com/books/a-comprehensive-guide-to-bug-bounty-hunting/)
+- [What Telnet Is and How Hackers Have Used Telnet for Exploitations](https://awjunaid.com/books/what-telnet-is-and-how-hackers-have-used-telnet-for-exploitations/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
