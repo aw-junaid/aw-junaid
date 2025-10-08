@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Cross-Site Request Forgery &lpar;CSRF&rpar;: How Attackers Hijack Your Sessions](https://awjunaid.com/books/understanding-cross-site-request-forgery-csrf-how-attackers-hijack-your-sessions/)
 - [How to Install DVWA on Kali Linux: Complete Step-by-Step Guide](https://awjunaid.com/books/how-to-install-dvwa-on-kali-linux-complete-step-by-step-guide/)
 - [A Deep Dive into SQL Injection Vulnerabilities](https://awjunaid.com/books/a-deep-dive-into-sql-injection-vulnerabilities/)
 - [Beyond the Bug Bounty: Understanding Qualifying vs. Non-Qualifying Vulnerabilities](https://awjunaid.com/books/beyond-the-bug-bounty-understanding-qualifying-vs-non-qualifying-vulnerabilities/)
 - [How to Write a High-Quality Bug Bounty Report](https://awjunaid.com/books/how-to-write-a-high-quality-bug-bounty-report/)
-- [The Path to Becoming a Bug Bounty Hunter](https://awjunaid.com/books/the-path-to-becoming-a-bug-bounty-hunter/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
