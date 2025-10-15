@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Site Scripting Attacks: XSS – The Client-Side Threat](https://awjunaid.com/books/cross-site-scripting-attacks-xss-the-client-side-threat/)
 - [Finding the Flaws No Tool Can See: A Deep Dive into Application Logic Vulnerabilities](https://awjunaid.com/books/finding-the-flaws-no-tool-can-see-a-deep-dive-into-application-logic-vulnerabilities/)
 - [Understanding Cross-Site Request Forgery &lpar;CSRF&rpar;: How Attackers Hijack Your Sessions](https://awjunaid.com/books/understanding-cross-site-request-forgery-csrf-how-attackers-hijack-your-sessions/)
 - [How to Install DVWA on Kali Linux: Complete Step-by-Step Guide](https://awjunaid.com/books/how-to-install-dvwa-on-kali-linux-complete-step-by-step-guide/)
 - [A Deep Dive into SQL Injection Vulnerabilities](https://awjunaid.com/books/a-deep-dive-into-sql-injection-vulnerabilities/)
-- [Beyond the Bug Bounty: Understanding Qualifying vs. Non-Qualifying Vulnerabilities](https://awjunaid.com/books/beyond-the-bug-bounty-understanding-qualifying-vs-non-qualifying-vulnerabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
