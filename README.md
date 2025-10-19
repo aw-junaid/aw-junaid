@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Bug Bounty Hunting Tools in 2025: Boost Coverage, Speed, and Success](https://awjunaid.com/books/top-bug-bounty-hunting-tools-in-2025-boost-coverage-speed-and-success/)
 - [Top Learning Resources for Aspiring Bug Bounty Hunters](https://awjunaid.com/books/top-learning-resources-for-aspiring-bug-bounty-hunters/)
 - [Server-Side Template Injection &lpar;SSTI&rpar;: Understanding and Mitigating the Risk](https://awjunaid.com/books/server-side-template-injection-ssti-understanding-and-mitigating-the-risk/)
 - [XML External Entity &lpar;XXE&rpar; Vulnerability: Detection, Exploitation, and Real-World Examples](https://awjunaid.com/books/xml-external-entity-xxe-vulnerability-detection-exploitation-and-real-world-examples/)
 - [Understanding the Threat of Sub-Domain Takeovers: A Critical Configuration Error](https://awjunaid.com/books/understanding-the-threat-of-sub-domain-takeovers-a-critical-configuration-error/)
-- [Understanding and Exploiting Open Redirect Vulnerabilities](https://awjunaid.com/books/understanding-and-exploiting-open-redirect-vulnerabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
