@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploitation Phase: Targeting CMS, GitHub, and Subdomain Takeovers](https://awjunaid.com/books/exploitation-phase-targeting-cms-github-and-subdomain-takeovers/)
+- [The Exploitation Phase: Hacking Known Vulnerabilities in Bug Bounty](https://awjunaid.com/books/the-exploitation-phase-hacking-known-vulnerabilities-in-bug-bounty/)
 - [Understanding HTML Injection: A Critical Look at Web Vulnerabilities](https://awjunaid.com/books/understanding-html-injection-a-critical-look-at-web-vulnerabilities/)
 - [Finding Command Injection Vulnerabilities](https://awjunaid.com/books/finding-command-injection-vulnerabilities/)
 - [Hacking the Data Structure: Injecting Unintended XML](https://awjunaid.com/books/hacking-the-data-structure-injecting-unintended-xml/)
-- [Understanding and Protecting Against Sender Policy Framework &lpar;SPF&rpar; Poisoning](https://awjunaid.com/books/understanding-and-protecting-against-sender-policy-framework-spf-poisoning/)
-- [Unmasking the Weakness: How to Discover CSRF on Any Application](https://awjunaid.com/books/unmasking-the-weakness-how-to-discover-csrf-on-any-application/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
