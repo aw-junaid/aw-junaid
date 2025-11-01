@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploitation Phase: Targeting CMS, GitHub, and Subdomain Takeovers](https://awjunaid.com/books/exploitation-phase-targeting-cms-github-and-subdomain-takeovers/)
-- [The Exploitation Phase: Hacking Known Vulnerabilities in Bug Bounty](https://awjunaid.com/books/the-exploitation-phase-hacking-known-vulnerabilities-in-bug-bounty/)
-- [Understanding HTML Injection: A Critical Look at Web Vulnerabilities](https://awjunaid.com/books/understanding-html-injection-a-critical-look-at-web-vulnerabilities/)
-- [Finding Command Injection Vulnerabilities](https://awjunaid.com/books/finding-command-injection-vulnerabilities/)
-- [Hacking the Data Structure: Injecting Unintended XML](https://awjunaid.com/books/hacking-the-data-structure-injecting-unintended-xml/)
+- [CSP Bypass: Turning a Security Header Against Itself](https://awjunaid.com/books/csp-bypass-turning-a-security-header-against-itself/)
+- [Client-Side Template Injection &lpar;CSTI&rpar;: Exploiting Modern Frontend Frameworks](https://awjunaid.com/books/client-side-template-injection-csti-exploiting-modern-frontend-frameworks/)
+- [Prototype Pollution: Poisoning the JavaScript Object Chain](https://awjunaid.com/books/prototype-pollution-poisoning-the-javascript-object-chain/)
+- [On-Site Request Forgery &lpar;OSRF&rpar;: A Forgotten Client-Side Attack](https://awjunaid.com/books/on-site-request-forgery-osrf-a-forgotten-client-side-attack/)
+- [Server-Side Template Injection &lpar;SSTI&rpar;: Exploiting the Backend View](https://awjunaid.com/books/server-side-template-injection-ssti-exploiting-the-backend-view/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
