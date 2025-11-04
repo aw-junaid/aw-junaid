@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Quick Overview of Cross-Site Scripting &lpar;XSS&rpar;](https://awjunaid.com/books/a-quick-overview-of-cross-site-scripting-xss/)
 - [Relative Path Overwrite &lpar;RPO&rpar;: Exploiting Path Confusion for Defacement](https://awjunaid.com/books/relative-path-overwrite-rpo-exploiting-path-confusion-for-defacement/)
 - [CSP Bypass: Turning a Security Header Against Itself](https://awjunaid.com/books/csp-bypass-turning-a-security-header-against-itself/)
 - [Client-Side Template Injection &lpar;CSTI&rpar;: Exploiting Modern Frontend Frameworks](https://awjunaid.com/books/client-side-template-injection-csti-exploiting-modern-frontend-frameworks/)
 - [Prototype Pollution: Poisoning the JavaScript Object Chain](https://awjunaid.com/books/prototype-pollution-poisoning-the-javascript-object-chain/)
-- [On-Site Request Forgery &lpar;OSRF&rpar;: A Forgotten Client-Side Attack](https://awjunaid.com/books/on-site-request-forgery-osrf-a-forgotten-client-side-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
