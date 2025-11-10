@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Out of Scope&rpar; Vulnerabilities: Knowing What Not to Report in Bug Bounty Programs](https://awjunaid.com/books/out-of-scope-vulnerabilities-knowing-what-not-to-report-in-bug-bounty-programs/)
 - [Access Control and Security Through Obscurity](https://awjunaid.com/books/access-control-and-security-through-obscurity/)
 - [Detecting XML External Entities &lpar;XXE&rpar; Vulnerabilities](https://awjunaid.com/books/detecting-xml-external-entities-xxe-vulnerabilities/)
 - [Cross-Site Request Forgery &lpar;CSRF&rpar; and Insecure Session Authentication](https://awjunaid.com/books/cross-site-request-forgery-csrf-and-insecure-session-authentication/)
 - [Detecting and Preventing Injection Attacks: A Deep Dive into SQL, NoSQL, and Scanners](https://awjunaid.com/books/detecting-and-preventing-injection-attacks-a-deep-dive-into-sql-nosql-and-scanners/)
-- [A Quick Overview of Cross-Site Scripting &lpar;XSS&rpar;](https://awjunaid.com/books/a-quick-overview-of-cross-site-scripting-xss/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
