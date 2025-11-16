@@ -138,11 +138,11 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding and Defending Against Cross-Site Scripting &lpar;XSS&rpar; Vulnerabilities](https://awjunaid.com/books/understanding-and-defending-against-cross-site-scripting-xss-vulnerabilities/)
 - [Mastering Web Hacking Reconnaissance: The Foundation of Bug Bounty Hunting](https://awjunaid.com/books/mastering-web-hacking-reconnaissance-the-foundation-of-bug-bounty-hunting/)
 - [Environmental Setup and Traffic Interception](https://awjunaid.com/books/environmental-setup-and-traffic-interception/)
 - [How the Internet Works: A Hacker’s Primer](https://awjunaid.com/books/how-the-internet-works-a-hackers-primer/)
 - [Sustaining Your Success: Mastering the Bug Bounty Journey](https://awjunaid.com/books/sustaining-your-success-mastering-the-bug-bounty-journey/)
-- [Not All Bug Bounty Programs Are the Same: Finding Your Target](https://awjunaid.com/books/not-all-bug-bounty-programs-are-the-same-finding-your-target/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
