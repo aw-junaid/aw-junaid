@@ -64,7 +64,7 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 
 - 💬 Ask me about **Penetration Testing, Networking, Cloud Security, Embedded System, Apache Server**
 
-- 📫 How to reach me **abdulwahabjunaid07@gmail.com**
+- 📫 How to reach me **awjunaid@proton.me**
 
 - 📄 Know about my experiences [Resume](https://cv.awjunaid.com)
 
