@@ -47,7 +47,7 @@ In Parallel, I am working on quantum computing and exploring the new space of cy
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aw-junaid&label=Profile%20views&color=000000&style=flat" alt="aw-junaid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=aw-junaid&theme=nord&no-frame=true" alt="aw-junaid" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy-fork-two.vercel.app/"><img width=800 src="https://github-profile-trophy-fork-two.vercel.app//?username=aw-junaid&theme=nord&no-frame=true" alt="aw-junaid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/awjunaid_" target="blank"><img src="https://img.shields.io/twitter/follow/awjunaid_?logo=twitter&style=for-the-badge" alt="awjunaid_" /></a> </p>
 
