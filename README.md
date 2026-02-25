@@ -268,11 +268,11 @@ In parallel, I am researching quantum computing and exploring the emerging field
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- 📄 &nbsp;[Understanding and Defending Against XSS Vulnerabilities](https://awjunaid.com/books/understanding-and-defending-against-cross-site-scripting-xss-vulnerabilities/)
-- 📄 &nbsp;[Mastering Web Hacking Reconnaissance](https://awjunaid.com/books/mastering-web-hacking-reconnaissance-the-foundation-of-bug-bounty-hunting/)
-- 📄 &nbsp;[Environmental Setup and Traffic Interception](https://awjunaid.com/books/environmental-setup-and-traffic-interception/)
-- 📄 &nbsp;[How the Internet Works: A Hacker's Primer](https://awjunaid.com/books/how-the-internet-works-a-hackers-primer/)
-- 📄 &nbsp;[Sustaining Your Success: Mastering the Bug Bounty Journey](https://awjunaid.com/books/sustaining-your-success-mastering-the-bug-bounty-journey/)
+- [Understanding and Defending Against Cross-Site Scripting &lpar;XSS&rpar; Vulnerabilities](https://awjunaid.com/books/understanding-and-defending-against-cross-site-scripting-xss-vulnerabilities/)
+- [Mastering Web Hacking Reconnaissance: The Foundation of Bug Bounty Hunting](https://awjunaid.com/books/mastering-web-hacking-reconnaissance-the-foundation-of-bug-bounty-hunting/)
+- [Environmental Setup and Traffic Interception](https://awjunaid.com/books/environmental-setup-and-traffic-interception/)
+- [How the Internet Works: A Hacker’s Primer](https://awjunaid.com/books/how-the-internet-works-a-hackers-primer/)
+- [Sustaining Your Success: Mastering the Bug Bounty Journey](https://awjunaid.com/books/sustaining-your-success-mastering-the-bug-bounty-journey/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📡 &nbsp;Full transmissions → **[awjunaid.com](https://awjunaid.com)**
