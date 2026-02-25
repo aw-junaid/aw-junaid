@@ -12,7 +12,7 @@
 <!-- ░░░░░░ LIVE SOCIAL METRIC BADGES ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="left">
 
-![Discord](https://img.shields.io/discord/1163365511309049948?style=flat-square&logo=discord&logoColor=white&color=5865F2&labelColor=5865F2&label=Discord)
+![Discord](https://img.shields.io/discord/1163365511309049948?style=flat-square&logo=discord&logoColor=white&color=5865F2&labelColor=5865F2&label=Discord&height=15)
 ![GitHub Followers](https://img.shields.io/github/followers/aw-junaid?style=flat-square&logo=github&logoColor=white&color=181717&labelColor=181717&label=Followers)
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UClhKVCHjOxBTNM50lOBTgoA?style=flat-square&logo=youtube&logoColor=white&color=FF0000&labelColor=FF0000&label=Subscribers)
 ![X Follow](https://img.shields.io/twitter/follow/awjunaid_?style=flat-square&logo=x&logoColor=white&color=000000&labelColor=000000&label=Follow)
