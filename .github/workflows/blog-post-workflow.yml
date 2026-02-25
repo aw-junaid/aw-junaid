@@ -1,16 +1,56 @@
 name: Latest blog post workflow
+
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every 8 hours
+    - cron: '0 */8 * * *'
   workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed to commit files
+
     steps:
+      # ── Checkout repository ─────────────────────────────────────────
       - uses: actions/checkout@v2
+      
+      # ── Update README with latest blog posts ───────────────────────
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: 'https://awjunaid.com/feed'
+      
+      # ── Create assets directory if it doesn't exist ─────────────────
+      - name: Create assets directory
+        run: mkdir -p assets
+      
+      # ── Generate GitHub Trophy with Nord Theme ──────────────────────
+      - name: Generate Trophy
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: aw-junaid
+          output_path: ./assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Add nord theme - this passes the theme parameter
+          theme: nord
+      
+      # ── Commit and push changes ─────────────────────────────────────
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Add both README and trophy
+          git add README.md assets/trophy.svg
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update blog posts and trophy [skip ci]"
+            git pull --rebase origin main
+            git push origin main
+          fi
+        shell: bash
