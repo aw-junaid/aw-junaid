@@ -268,11 +268,11 @@ In parallel, I am researching quantum computing and exploring the emerging field
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding and Defending Against Cross-Site Scripting &lpar;XSS&rpar; Vulnerabilities](https://awjunaid.com/books/understanding-and-defending-against-cross-site-scripting-xss-vulnerabilities/)
-- [Mastering Web Hacking Reconnaissance: The Foundation of Bug Bounty Hunting](https://awjunaid.com/books/mastering-web-hacking-reconnaissance-the-foundation-of-bug-bounty-hunting/)
-- [Environmental Setup and Traffic Interception](https://awjunaid.com/books/environmental-setup-and-traffic-interception/)
-- [How the Internet Works: A Hacker’s Primer](https://awjunaid.com/books/how-the-internet-works-a-hackers-primer/)
-- [Sustaining Your Success: Mastering the Bug Bounty Journey](https://awjunaid.com/books/sustaining-your-success-mastering-the-bug-bounty-journey/)
+- [The Mathematical Foundations of Viral Propagation: A Forensic Analysis of Gleissner’s 1989 Theory](https://awjunaid.com/cyber-security/the-mathematical-foundations-of-viral-propagation-a-forensic-analysis-of-gleissners-1989-theory/)
+- [A Computational Model of Computer Virus Propagation: A 2026 Forensic Retrospective](https://awjunaid.com/cyber-security/a-computational-model-of-computer-virus-propagation-a-2026-forensic-retrospective/)
+- [A Comprehensive Program for Preventing and Detecting Computer Viruses: A 2026 Forensic Retrospective on the IRS Security Crisis of 2000](https://awjunaid.com/cyber-security/a-comprehensive-program-for-preventing-and-detecting-computer-viruses-a-2026-forensic-retrospective-on-the-irs-security-crisis-of-2000/)
+- [A Bit of Viral Protection: A 2026 Forensic Retrospective on Timeless Cybersecurity Principles](https://awjunaid.com/cyber-security/a-bit-of-viral-protection-a-2026-forensic-retrospective-on-timeless-cybersecurity-principles/)
+- [The 64-Bit Milestone: A Forensic Deep Dive into W64/Rugrat.3344](https://awjunaid.com/research/the-64-bit-milestone-a-forensic-deep-dive-into-w64-rugrat-3344/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📡 &nbsp;Full transmissions → **[awjunaid.com](https://awjunaid.com)**
