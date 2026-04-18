@@ -275,7 +275,7 @@ In parallel, I am researching quantum computing and exploring the emerging field
 - [The 64-Bit Milestone: A Forensic Deep Dive into W64/Rugrat.3344](https://awjunaid.com/research/the-64-bit-milestone-a-forensic-deep-dive-into-w64-rugrat-3344/)
 <!-- BLOG-POST-LIST:END -->
 
-> 📡 &nbsp;Full transmissions → **[awjunaid.com](https://awjunaid.com)**
+> 📡 &nbsp;Read Posts → **[awjunaid.com](https://awjunaid.com)**
 
 <br/>
 
@@ -317,6 +317,33 @@ In parallel, I am researching quantum computing and exploring the emerging field
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@aw-junaid/subscribe)
 
 
+
+<!-- ░░░░░░ IQBAL — فلسفۂ خودی ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&pause=99999&color=cc0000&background=FFFFFF00&center=false&vCenter=true&repeat=false&width=420&height=27&lines=%E2%96%BA+%D9%81%D9%84%D8%B3%D9%81%DB%82+%D8%AE%D9%88%D8%AF%DB%8C" alt="label"/>
+
+<br/>
+
+<div dir="rtl" align="center">
+
+> خِرَد مندوں سے کیا پوچھوں کہ میری اِبتدا کیا ہے  
+> کہ میں اِس فکر میں رہتا ہوں، میری اِنتہا کیا ہے  
+>  
+> خُودی کو کر بُلند اتنا کہ ہر تقدیر سے پہلے  
+> خُدا بندے سے خود پوچھے، بتا تیری رضا کیا ہے  
+>  
+> مقامِ گفتگو کیا ہے، اگر میں کیمیا گر ہوں  
+> یہی سوزِ نفس ہے اور، میری کیمیا کیا ہے  
+
+**— علامہ اقبال**
+
+</div>
+
+<br/>
+
+
+
+
 <!-- ░░░░░░ QUOTES ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&pause=99999&color=cc0000&background=FFFFFF00&center=false&vCenter=true&repeat=false&width=360&height=27&lines=%E2%96%BA+Quotes" alt="label"/>
@@ -347,19 +374,3 @@ In parallel, I am researching quantum computing and exploring the emerging field
 <!-- ║   E N D   T R A N S M I S S I O N                           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<div dir="rtl" align="center">
-
-### اقبال کا فلسفۂ خودی
-
-> خِرَد مندوں سے کیا پوچھوں کہ میری اِبتدا کیا ہے  
-> کہ میں اِس فکر میں رہتا ہوں، میری اِنتہا کیا ہے  
->  
-> خُودی کو کر بُلند اتنا کہ ہر تقدیر سے پہلے  
-> خُدا بندے سے خود پوچھے، بتا تیری رضا کیا ہے  
->  
-> مقامِ گفتگو کیا ہے، اگر میں کیمیا گر ہوں  
-> یہی سوزِ نفس ہے اور، میری کیمیا کیا ہے  
-
-**— علامہ اقبال**
-
-</div>
