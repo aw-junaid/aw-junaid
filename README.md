@@ -6,7 +6,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=Abdul%20Wahab%20Junaid&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Cyber-Security%20Specialist%20%7C%20Quantum%20Cryptography%20Researcher&descAlignY=72&descAlign=50&descColor=888888" width="100%"/>
 </div>
-
+ 
 <br/>
 
 <!-- ░░░░░░ LIVE SOCIAL METRIC BADGES ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
