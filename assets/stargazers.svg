@@ -73,23 +73,23 @@
                                 </g>
                             </g>
                             <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
-                                <g class="tick" opacity="1" transform="translate(0,21.369565217391298)">
+                                <g class="tick" opacity="1" transform="translate(0,32.23913043478262)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1,405</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,75.71739130434784)">
+                                <g class="tick" opacity="1" transform="translate(0,86.58695652173914)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1,400</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,130.06521739130434)">
+                                <g class="tick" opacity="1" transform="translate(0,140.93478260869566)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1,395</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,184.41304347826087)">
+                                <g class="tick" opacity="1" transform="translate(0,195.28260869565216)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1,390</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,238.7608695652174)">
+                                <g class="tick" opacity="1" transform="translate(0,249.63043478260872)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1,385</text>
                                 </g>
