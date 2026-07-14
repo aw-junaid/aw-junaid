@@ -4,7 +4,7 @@
 
 <!-- ░░░░░░ FULL WIDTH BANNER — BLACK BG ░░░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=Abdul%20Wahab%20Junaid&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Cyber-Security%20Specialist%20%7C%20Quantum%20Cryptography%20Researcher&descAlignY=72&descAlign=50&descColor=888888" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=Abdul%20Wahab%20Junaid&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Offensive%20Security%20Researcher%20%7C%20Quantum%20Cryptography%20Analyst&descAlignY=72&descAlign=50&descColor=888888" width="100%"/>
 </div>
  
 <br/>
@@ -38,7 +38,7 @@
 <div align="left">
 
 ### ♓ &nbsp;Abdul Wahab Junaid
-**Cyber-Security Specialist &nbsp;·&nbsp; Quantum Cryptography Researcher &nbsp;·&nbsp; Social Engineer**
+**Offensive Security Researcher &nbsp;·&nbsp; Quantum Cryptography Analyst &nbsp;·&nbsp; Network Engineer**
 
 > *"I hunt for vulnerabilities. It's what I do.*
 > *So, if I've found my way into your system, there's no need for alarm. I'm just helping you fortify it before the real threat arrives."*
