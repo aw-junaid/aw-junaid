@@ -268,11 +268,11 @@ In parallel, I am researching quantum computing and exploring the emerging field
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [waybackurls: Complete Guide to Historical URL Enumeration Using Kali Linux](https://awjunaid.com/kali-linux/waybackurls-complete-guide-to-historical-url-enumeration-using-kali-linux/)
-- [gau: Complete Guide to Historical URL Collection and Web Asset Discovery Using Kali Linux](https://awjunaid.com/kali-linux/gau-complete-guide-to-historical-url-collection-and-web-asset-discovery-using-kali-linux/)
-- [Katana: Complete Guide to Web Crawling and Attack Surface Discovery Using Kali Linux](https://awjunaid.com/kali-linux/katana-complete-guide-to-web-crawling-and-attack-surface-discovery-using-kali-linux/)
-- [hakrawler: Complete Guide to Web Crawling and URL Discovery Using Kali Linux](https://awjunaid.com/kali-linux/hakrawler-complete-guide-to-web-crawling-and-url-discovery-using-kali-linux/)
-- [EyeWitness: Complete Guide to Web Screenshotting and Service Enumeration Using Kali Linux](https://awjunaid.com/kali-linux/eyewitness-complete-guide-to-web-screenshotting-and-service-enumeration-using-kali-linux/)
+- [NoSQLMap: Complete Guide to NoSQL Database Security Testing and Exploitation Using Kali Linux](https://awjunaid.com/kali-linux/nosqlmap-complete-guide-to-nosql-database-security-testing-and-exploitation-using-kali-linux/)
+- [ExifTool: Complete Guide to Metadata Analysis and Digital Forensics Using Kali Linux](https://awjunaid.com/kali-linux/exiftool-complete-guide-to-metadata-analysis-and-digital-forensics-using-kali-linux/)
+- [Foremost: Complete Guide to File Carving and Data Recovery Using Kali Linux](https://awjunaid.com/kali-linux/foremost-complete-guide-to-file-carving-and-data-recovery-using-kali-linux/)
+- [Volatility: Complete Guide to Memory Forensics and RAM Analysis Using Kali Linux](https://awjunaid.com/kali-linux/volatility-complete-guide-to-memory-forensics-and-ram-analysis-using-kali-linux/)
+- [The Sleuth Kit: Complete Guide to Digital Forensics and File System Analysis Using Kali Linux](https://awjunaid.com/kali-linux/the-sleuth-kit-complete-guide-to-digital-forensics-and-file-system-analysis-using-kali-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📡 &nbsp;Read Posts → **[awjunaid.com](https://awjunaid.com)**
