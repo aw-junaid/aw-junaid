@@ -268,11 +268,11 @@ In parallel, I am researching quantum computing and exploring the emerging field
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mathematical Foundations of Viral Propagation: A Forensic Analysis of Gleissner’s 1989 Theory](https://awjunaid.com/cyber-security/the-mathematical-foundations-of-viral-propagation-a-forensic-analysis-of-gleissners-1989-theory/)
-- [A Computational Model of Computer Virus Propagation: A 2026 Forensic Retrospective](https://awjunaid.com/cyber-security/a-computational-model-of-computer-virus-propagation-a-2026-forensic-retrospective/)
-- [A Comprehensive Program for Preventing and Detecting Computer Viruses: A 2026 Forensic Retrospective on the IRS Security Crisis of 2000](https://awjunaid.com/cyber-security/a-comprehensive-program-for-preventing-and-detecting-computer-viruses-a-2026-forensic-retrospective-on-the-irs-security-crisis-of-2000/)
-- [A Bit of Viral Protection: A 2026 Forensic Retrospective on Timeless Cybersecurity Principles](https://awjunaid.com/cyber-security/a-bit-of-viral-protection-a-2026-forensic-retrospective-on-timeless-cybersecurity-principles/)
-- [The 64-Bit Milestone: A Forensic Deep Dive into W64/Rugrat.3344](https://awjunaid.com/research/the-64-bit-milestone-a-forensic-deep-dive-into-w64-rugrat-3344/)
+- [waybackurls: Complete Guide to Historical URL Enumeration Using Kali Linux](https://awjunaid.com/kali-linux/waybackurls-complete-guide-to-historical-url-enumeration-using-kali-linux/)
+- [gau: Complete Guide to Historical URL Collection and Web Asset Discovery Using Kali Linux](https://awjunaid.com/kali-linux/gau-complete-guide-to-historical-url-collection-and-web-asset-discovery-using-kali-linux/)
+- [Katana: Complete Guide to Web Crawling and Attack Surface Discovery Using Kali Linux](https://awjunaid.com/kali-linux/katana-complete-guide-to-web-crawling-and-attack-surface-discovery-using-kali-linux/)
+- [hakrawler: Complete Guide to Web Crawling and URL Discovery Using Kali Linux](https://awjunaid.com/kali-linux/hakrawler-complete-guide-to-web-crawling-and-url-discovery-using-kali-linux/)
+- [EyeWitness: Complete Guide to Web Screenshotting and Service Enumeration Using Kali Linux](https://awjunaid.com/kali-linux/eyewitness-complete-guide-to-web-screenshotting-and-service-enumeration-using-kali-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📡 &nbsp;Read Posts → **[awjunaid.com](https://awjunaid.com)**
