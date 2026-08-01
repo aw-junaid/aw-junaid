@@ -268,11 +268,11 @@ In parallel, I am researching quantum computing and exploring the emerging field
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [NoSQLMap: Complete Guide to NoSQL Database Security Testing and Exploitation Using Kali Linux](https://awjunaid.com/kali-linux/nosqlmap-complete-guide-to-nosql-database-security-testing-and-exploitation-using-kali-linux/)
-- [ExifTool: Complete Guide to Metadata Analysis and Digital Forensics Using Kali Linux](https://awjunaid.com/kali-linux/exiftool-complete-guide-to-metadata-analysis-and-digital-forensics-using-kali-linux/)
-- [Foremost: Complete Guide to File Carving and Data Recovery Using Kali Linux](https://awjunaid.com/kali-linux/foremost-complete-guide-to-file-carving-and-data-recovery-using-kali-linux/)
-- [Volatility: Complete Guide to Memory Forensics and RAM Analysis Using Kali Linux](https://awjunaid.com/kali-linux/volatility-complete-guide-to-memory-forensics-and-ram-analysis-using-kali-linux/)
-- [The Sleuth Kit: Complete Guide to Digital Forensics and File System Analysis Using Kali Linux](https://awjunaid.com/kali-linux/the-sleuth-kit-complete-guide-to-digital-forensics-and-file-system-analysis-using-kali-linux/)
+- [Objection: Complete Guide to Mobile Application Runtime Security Testing Using Kali Linux](https://awjunaid.com/kali-linux/objection-complete-guide-to-mobile-application-runtime-security-testing-using-kali-linux/)
+- [Frida: Complete Guide to Dynamic Application Instrumentation and Runtime Analysis Using Kali Linux](https://awjunaid.com/kali-linux/frida-complete-guide-to-dynamic-application-instrumentation-and-runtime-analysis-using-kali-linux/)
+- [JADX: Complete Guide to Android APK Decompilation and Source Code Analysis Using Kali Linux](https://awjunaid.com/kali-linux/jadx-complete-guide-to-android-apk-decompilation-and-source-code-analysis-using-kali-linux/)
+- [APKTool: Complete Guide to Android APK Reverse Engineering and Application Analysis Using Kali Linux](https://awjunaid.com/kali-linux/apktool-complete-guide-to-android-apk-reverse-engineering-and-application-analysis-using-kali-linux/)
+- [MobSF: Complete Guide to Mobile Application Security Testing and Malware Analysis Using Kali Linux](https://awjunaid.com/kali-linux/mobsf-complete-guide-to-mobile-application-security-testing-and-malware-analysis-using-kali-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📡 &nbsp;Read Posts → **[awjunaid.com](https://awjunaid.com)**
