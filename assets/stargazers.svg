@@ -73,19 +73,19 @@
                                 </g>
                             </g>
                             <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
-                                <g class="tick" opacity="1" transform="translate(0,61.63636363636365)">
+                                <g class="tick" opacity="1" transform="translate(0,55.95454545454544)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1,500</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,118.45454545454545)">
+                                <g class="tick" opacity="1" transform="translate(0,112.77272727272727)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1,490</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,175.27272727272728)">
+                                <g class="tick" opacity="1" transform="translate(0,169.59090909090907)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1,480</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,232.09090909090907)">
+                                <g class="tick" opacity="1" transform="translate(0,226.40909090909093)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1,470</text>
                                 </g>
@@ -108,9 +108,9 @@
                                 <circle transform="translate(10,10)" cx="425.3846153846154" cy="32.727272727272734" r="2" fill="#106cbc"/>
                             </g>
                             <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                <text transform="translate(10,6)" x="10" y="260" fill="rgba(127, 127, 127, .8)">1.47k</text>
+                                <text transform="translate(10,6)" x="10" y="260" fill="rgba(127, 127, 127, .8)">1.46k</text>
                                 <text transform="translate(10,6)" x="44.61538461538462" y="237.27272727272725" fill="rgba(127, 127, 127, .8)">1.47k</text>
-                                <text transform="translate(10,6)" x="79.23076923076924" y="203.1818181818182" fill="rgba(127, 127, 127, .8)">1.48k</text>
+                                <text transform="translate(10,6)" x="79.23076923076924" y="203.1818181818182" fill="rgba(127, 127, 127, .8)">1.47k</text>
                                 <text transform="translate(10,6)" x="113.84615384615385" y="180.45454545454547" fill="rgba(127, 127, 127, .8)">1.48k</text>
                                 <text transform="translate(10,6)" x="148.46153846153848" y="174.77272727272728" fill="rgba(127, 127, 127, .8)">1.48k</text>
                                 <text transform="translate(10,6)" x="183.0769230769231" y="129.3181818181818" fill="rgba(127, 127, 127, .8)">1.49k</text>
