@@ -268,11 +268,11 @@ In parallel, I am researching quantum computing and exploring the emerging field
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Detecting Kernel-Level Rootkits Through System Call Table Redirection: A Look Back at a Foundational Methodology](https://awjunaid.com/cyber-security/detecting-kernel-level-rootkits-through-system-call-table-redirection-a-look-back-at-a-foundational-methodology/)
-- [Malware Detection Based on Suspicious Behavior Identification: How API Call Sequences Give Malware Away](https://awjunaid.com/cyber-security/malware-detection-based-on-suspicious-behavior-identification-how-api-call-sequences-give-malware-away/)
-- [ChatGPT for Secure Code Reviews: A Practical Guide for Developers](https://awjunaid.com/devsecops/chatgpt-for-secure-code-reviews-a-practical-guide-for-developers/)
-- [AI vs Traditional Security Testing: What Actually Works in 2026](https://awjunaid.com/devsecops/ai-vs-traditional-security-testing-what-actually-works-in-2026/)
-- [Automating Security Testing with AI: A Step-by-Step Guide](https://awjunaid.com/devsecops/automating-security-testing-with-ai-a-step-by-step-guide/)
+- [Secure Package Management Best Practices Every Developer Should Follow](https://awjunaid.com/devsecops/secure-package-management-best-practices-every-developer-should-follow/)
+- [AWS DevSecOps Best Practices: Building Security Into Every Deployment](https://awjunaid.com/devsecops/aws-devsecops-best-practices-building-security-into-every-deployment/)
+- [Azure DevSecOps: A Complete Guide to Building Secure Pipelines](https://awjunaid.com/devsecops/azure-devsecops-a-complete-guide-to-building-secure-pipelines/)
+- [Google Cloud DevSecOps Best Practices: A Practical Playbook](https://awjunaid.com/devsecops/google-cloud-devsecops-best-practices-a-practical-playbook/)
+- [Multi-Cloud Security Best Practices: Managing Risk Across AWS, Azure, and GCP](https://awjunaid.com/devsecops/multi-cloud-security-best-practices-managing-risk-across-aws-azure-and-gcp/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📡 &nbsp;Read Posts → **[awjunaid.com](https://awjunaid.com)**
