@@ -268,11 +268,11 @@ In parallel, I am researching quantum computing and exploring the emerging field
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Objection: Complete Guide to Mobile Application Runtime Security Testing Using Kali Linux](https://awjunaid.com/kali-linux/objection-complete-guide-to-mobile-application-runtime-security-testing-using-kali-linux/)
-- [Frida: Complete Guide to Dynamic Application Instrumentation and Runtime Analysis Using Kali Linux](https://awjunaid.com/kali-linux/frida-complete-guide-to-dynamic-application-instrumentation-and-runtime-analysis-using-kali-linux/)
-- [JADX: Complete Guide to Android APK Decompilation and Source Code Analysis Using Kali Linux](https://awjunaid.com/kali-linux/jadx-complete-guide-to-android-apk-decompilation-and-source-code-analysis-using-kali-linux/)
-- [APKTool: Complete Guide to Android APK Reverse Engineering and Application Analysis Using Kali Linux](https://awjunaid.com/kali-linux/apktool-complete-guide-to-android-apk-reverse-engineering-and-application-analysis-using-kali-linux/)
-- [MobSF: Complete Guide to Mobile Application Security Testing and Malware Analysis Using Kali Linux](https://awjunaid.com/kali-linux/mobsf-complete-guide-to-mobile-application-security-testing-and-malware-analysis-using-kali-linux/)
+- [Detecting Kernel-Level Rootkits Through System Call Table Redirection: A Look Back at a Foundational Methodology](https://awjunaid.com/cyber-security/detecting-kernel-level-rootkits-through-system-call-table-redirection-a-look-back-at-a-foundational-methodology/)
+- [Malware Detection Based on Suspicious Behavior Identification: How API Call Sequences Give Malware Away](https://awjunaid.com/cyber-security/malware-detection-based-on-suspicious-behavior-identification-how-api-call-sequences-give-malware-away/)
+- [ChatGPT for Secure Code Reviews: A Practical Guide for Developers](https://awjunaid.com/devsecops/chatgpt-for-secure-code-reviews-a-practical-guide-for-developers/)
+- [AI vs Traditional Security Testing: What Actually Works in 2026](https://awjunaid.com/devsecops/ai-vs-traditional-security-testing-what-actually-works-in-2026/)
+- [Automating Security Testing with AI: A Step-by-Step Guide](https://awjunaid.com/devsecops/automating-security-testing-with-ai-a-step-by-step-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📡 &nbsp;Read Posts → **[awjunaid.com](https://awjunaid.com)**
