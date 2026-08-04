@@ -268,11 +268,11 @@ In parallel, I am researching quantum computing and exploring the emerging field
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Package Management Best Practices Every Developer Should Follow](https://awjunaid.com/devsecops/secure-package-management-best-practices-every-developer-should-follow/)
-- [AWS DevSecOps Best Practices: Building Security Into Every Deployment](https://awjunaid.com/devsecops/aws-devsecops-best-practices-building-security-into-every-deployment/)
-- [Azure DevSecOps: A Complete Guide to Building Secure Pipelines](https://awjunaid.com/devsecops/azure-devsecops-a-complete-guide-to-building-secure-pipelines/)
-- [Google Cloud DevSecOps Best Practices: A Practical Playbook](https://awjunaid.com/devsecops/google-cloud-devsecops-best-practices-a-practical-playbook/)
-- [Multi-Cloud Security Best Practices: Managing Risk Across AWS, Azure, and GCP](https://awjunaid.com/devsecops/multi-cloud-security-best-practices-managing-risk-across-aws-azure-and-gcp/)
+- [DevSecOps Roles and Responsibilities Explained](https://awjunaid.com/devsecops/devsecops-roles-and-responsibilities-explained/)
+- [Securing Git Repositories Against Cyber Attacks](https://awjunaid.com/devsecops/securing-git-repositories-against-cyber-attacks/)
+- [Kubernetes Security Best Practices: A Practical Guide for 2026](https://awjunaid.com/uncategorized/kubernetes-security-best-practices-a-practical-guide-for-2026/)
+- [Runtime Container Security vs Image Scanning: What’s the Difference?](https://awjunaid.com/devsecops/runtime-container-security-vs-image-scanning-whats-the-difference/)
+- [Terraform Security Best Practices](https://awjunaid.com/devsecops/terraform-security-best-practices/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📡 &nbsp;Read Posts → **[awjunaid.com](https://awjunaid.com)**
