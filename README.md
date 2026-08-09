@@ -268,11 +268,11 @@ In parallel, I am researching quantum computing and exploring the emerging field
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [PasteHunter: A Practical Guide to Automated Paste Site Monitoring for Leaked Data](https://awjunaid.com/kali-linux/pastehunter-a-practical-guide-to-automated-paste-site-monitoring-for-leaked-data/)
+- [OWASP Amass: The Definitive Guide to Attack Surface Mapping and Asset Discovery](https://awjunaid.com/kali-linux/owasp-amass-the-definitive-guide-to-attack-surface-mapping-and-asset-discovery/)
+- [DNSDumpster: The Complete Guide to DNS Reconnaissance for Security Researchers](https://awjunaid.com/kali-linux/dnsdumpster-the-complete-guide-to-dns-reconnaissance-for-security-researchers/)
 - [API Rate Limiting Explained: How Lack of Resource Controls Leads to DoS Attacks and Server Overload](https://awjunaid.com/devsecops/api-rate-limiting-explained-how-lack-of-resource-controls-leads-to-dos-attacks-and-server-overload/)
 - [Broken Function Level Authorization &lpar;BFLA&rpar; in APIs: The Complete Guide to Detection and Prevention](https://awjunaid.com/devsecops/broken-function-level-authorization-bfla-in-apis-the-complete-guide-to-detection-and-prevention/)
-- [Mass Assignment Vulnerabilities in APIs: How Attackers Exploit Auto-Binding and How to Stop Them](https://awjunaid.com/devsecops/mass-assignment-vulnerabilities-in-apis-how-attackers-exploit-auto-binding-and-how-to-stop-them/)
-- [API Security Misconfigurations: A Complete Guide to Finding and Fixing Hidden Risks](https://awjunaid.com/devsecops/api-security-misconfigurations-a-complete-guide-to-finding-and-fixing-hidden-risks/)
-- [API Injection Attacks Explained: SQL, NoSQL, Command, and Code Injection Prevention Guide](https://awjunaid.com/devsecops/api-injection-attacks-explained-sql-nosql-command-and-code-injection-prevention-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📡 &nbsp;Read Posts → **[awjunaid.com](https://awjunaid.com)**
