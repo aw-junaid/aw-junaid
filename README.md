@@ -268,11 +268,11 @@ In parallel, I am researching quantum computing and exploring the emerging field
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [NoSQL in Microservices Architecture: Polyglot Persistence and Event Sourcing Patterns](https://awjunaid.com/nosql/nosql-in-microservices-architecture-polyglot-persistence-and-event-sourcing-patterns/)
 - [PasteHunter: A Practical Guide to Automated Paste Site Monitoring for Leaked Data](https://awjunaid.com/kali-linux/pastehunter-a-practical-guide-to-automated-paste-site-monitoring-for-leaked-data/)
 - [OWASP Amass: The Definitive Guide to Attack Surface Mapping and Asset Discovery](https://awjunaid.com/kali-linux/owasp-amass-the-definitive-guide-to-attack-surface-mapping-and-asset-discovery/)
 - [DNSDumpster: The Complete Guide to DNS Reconnaissance for Security Researchers](https://awjunaid.com/kali-linux/dnsdumpster-the-complete-guide-to-dns-reconnaissance-for-security-researchers/)
 - [API Rate Limiting Explained: How Lack of Resource Controls Leads to DoS Attacks and Server Overload](https://awjunaid.com/devsecops/api-rate-limiting-explained-how-lack-of-resource-controls-leads-to-dos-attacks-and-server-overload/)
-- [Broken Function Level Authorization &lpar;BFLA&rpar; in APIs: The Complete Guide to Detection and Prevention](https://awjunaid.com/devsecops/broken-function-level-authorization-bfla-in-apis-the-complete-guide-to-detection-and-prevention/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📡 &nbsp;Read Posts → **[awjunaid.com](https://awjunaid.com)**
