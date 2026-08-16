@@ -268,11 +268,11 @@ In parallel, I am researching quantum computing and exploring the emerging field
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Superconducting Qubits: Transmon, Josephson Junctions, and IBM’s Quantum Processors](https://awjunaid.com/quantum-computing/superconducting-qubits-transmon-josephson-junctions-and-ibms-quantum-processors/)
-- [Trapped Ion Quantum Computing: Precision Qubit Control and Scalability Challenges](https://awjunaid.com/quantum-computing/trapped-ion-quantum-computing-precision-qubit-control-and-scalability-challenges/)
-- [Topological Quantum Computing: Anyons, Braiding, and Fault-Tolerant Qubits](https://awjunaid.com/quantum-computing/topological-quantum-computing-anyons-braiding-and-fault-tolerant-qubits/)
-- [Quantum Programming Languages: Qiskit, Cirq, Q#, and Forest Explained](https://awjunaid.com/quantum-computing/quantum-programming-languages-qiskit-cirq-q-and-forest-explained/)
-- [IBM Qiskit Tutorial: Building and Running Your First Quantum Circuit](https://awjunaid.com/quantum-computing/ibm-qiskit-tutorial-building-and-running-your-first-quantum-circuit/)
+- [Nmap Cheat Sheet: Complete Guide to Network Scanning Commands and Options](https://awjunaid.com/nmap/nmap-cheat-sheet-complete-guide-to-network-scanning-commands-and-options/)
+- [Nmap Port Scanning Techniques: TCP SYN, Connect, UDP, ACK, FIN, and XMAS Scans Explained](https://awjunaid.com/nmap/nmap-port-scanning-techniques-tcp-syn-connect-udp-ack-fin-and-xmas-scans-explained/)
+- [Nmap Host Discovery: Ping Sweeps, ARP Scans, and Finding Live Hosts on a Network](https://awjunaid.com/nmap/nmap-host-discovery-ping-sweeps-arp-scans-and-finding-live-hosts-on-a-network/)
+- [Nmap Scripting Engine &lpar;NSE&rpar;: Using and Writing Custom Nmap Scripts for Vulnerability Scanning](https://awjunaid.com/nmap/nmap-scripting-engine-nse-using-and-writing-custom-nmap-scripts-for-vulnerability-scanning/)
+- [Nmap Firewall Evasion Techniques: Fragmenting Packets, Decoys, and Source Port Manipulation](https://awjunaid.com/nmap/nmap-firewall-evasion-techniques-fragmenting-packets-decoys-and-source-port-manipulation/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📡 &nbsp;Read Posts → **[awjunaid.com](https://awjunaid.com)**
