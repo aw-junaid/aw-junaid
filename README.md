@@ -268,11 +268,11 @@ In parallel, I am researching quantum computing and exploring the emerging field
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [NoSQL Security Best Practices: Authentication, Authorization, and Encryption at Rest](https://awjunaid.com/nosql/nosql-security-best-practices-authentication-authorization-and-encryption-at-rest/)
-- [NoSQL in Microservices Architecture: Polyglot Persistence and Event Sourcing Patterns](https://awjunaid.com/nosql/nosql-in-microservices-architecture-polyglot-persistence-and-event-sourcing-patterns/)
-- [PasteHunter: A Practical Guide to Automated Paste Site Monitoring for Leaked Data](https://awjunaid.com/kali-linux/pastehunter-a-practical-guide-to-automated-paste-site-monitoring-for-leaked-data/)
-- [OWASP Amass: The Definitive Guide to Attack Surface Mapping and Asset Discovery](https://awjunaid.com/kali-linux/owasp-amass-the-definitive-guide-to-attack-surface-mapping-and-asset-discovery/)
-- [DNSDumpster: The Complete Guide to DNS Reconnaissance for Security Researchers](https://awjunaid.com/kali-linux/dnsdumpster-the-complete-guide-to-dns-reconnaissance-for-security-researchers/)
+- [Superconducting Qubits: Transmon, Josephson Junctions, and IBM’s Quantum Processors](https://awjunaid.com/quantum-computing/superconducting-qubits-transmon-josephson-junctions-and-ibms-quantum-processors/)
+- [Trapped Ion Quantum Computing: Precision Qubit Control and Scalability Challenges](https://awjunaid.com/quantum-computing/trapped-ion-quantum-computing-precision-qubit-control-and-scalability-challenges/)
+- [Topological Quantum Computing: Anyons, Braiding, and Fault-Tolerant Qubits](https://awjunaid.com/quantum-computing/topological-quantum-computing-anyons-braiding-and-fault-tolerant-qubits/)
+- [Quantum Programming Languages: Qiskit, Cirq, Q#, and Forest Explained](https://awjunaid.com/quantum-computing/quantum-programming-languages-qiskit-cirq-q-and-forest-explained/)
+- [IBM Qiskit Tutorial: Building and Running Your First Quantum Circuit](https://awjunaid.com/quantum-computing/ibm-qiskit-tutorial-building-and-running-your-first-quantum-circuit/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📡 &nbsp;Read Posts → **[awjunaid.com](https://awjunaid.com)**
