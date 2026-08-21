@@ -83,8 +83,8 @@ In parallel, I am researching quantum computing and exploring the emerging field
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&pause=99999&color=cc0000&background=FFFFFF00&center=false&vCenter=true&repeat=false&width=360&height=27&lines=%E2%96%BA+TROPHIES" alt="label"/>
 
-<div align="center">
-<img width="100%" src="https://github.com/aw-junaid/aw-junaid/blob/main/assets/trophy.svg" alt="aw-junaid trophies"/>
+<div align="left">
+ <img src="https://github-profile-trophy-unserori.vercel.app/?username=aw-junaid&theme=onestar&row=2&column=&no-frame=true" alt="aw-junaid trophies"/>
 </div>
 
 
